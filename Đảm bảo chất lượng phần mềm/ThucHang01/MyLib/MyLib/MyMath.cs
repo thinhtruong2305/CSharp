@@ -28,6 +28,7 @@ namespace MyLib
             return s;
         }
 
+        //phần này áp dụng epsilon vào để tính toán
         public static double expEpsilon(double x)
         {
             double s = 1;
