@@ -24,3 +24,4 @@ D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CShar
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang01\UngDungCuaSo\UngDungCuaSo\obj\Debug\UngDungCuaSo.csproj.CopyComplete
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang01\UngDungCuaSo\UngDungCuaSo\obj\Debug\UngDungCuaSo.exe
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang01\UngDungCuaSo\UngDungCuaSo\obj\Debug\UngDungCuaSo.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang01\UngDungCuaSo\UngDungCuaSo\obj\Debug\UngDungCuaSo.frmCon.resources

@@ -5,6 +5,7 @@ namespace MyLib
 {
     public static class MyMath
     {
+        private const double epsilon = 1E-10;
         public static double exp(double x)
         {
             double s = 1;
@@ -32,7 +33,6 @@ namespace MyLib
         public static double expEpsilon(double x)
         {
             double s = 1;
-            const double epsilon = 1E-10;
             int i = 0;
             double a = 1;
             while (Math.Abs(a) > epsilon)
@@ -40,6 +40,40 @@ namespace MyLib
                 i++;
                 a *= x;
                 a /= i;
+                s += a;
+            }
+            Console.WriteLine("x={0}, i={1}, a={2}, s={3}", x, i, a, s);
+            return s;
+        }
+
+        //Phần này chạy sin
+        public static double sin(double x)
+        {
+            double s = x;
+            int i = 1;
+            double a = x;
+            while (Math.Abs(a) > epsilon)
+            {
+                i += 2;
+                a *= -x * x;
+                a /= (i - 1) * i;
+                s += a;
+            }
+            Console.WriteLine("x={0}, i={1}, a={2}, s={3}", x, i, a, s);
+            return s;
+        }
+
+        //Phần này chạy cos
+        public static double cos(double x)
+        {
+            double s = 1;
+            int i = 0;
+            double a = 1;
+            while (Math.Abs(a) > epsilon)
+            {
+                i += 2;
+                a *= -x * x;
+                a /= (i - 1) * i;
                 s += a;
             }
             Console.WriteLine("x={0}, i={1}, a={2}, s={3}", x, i, a, s);

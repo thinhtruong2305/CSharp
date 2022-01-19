@@ -56,10 +56,19 @@
     <Compile Include="frmChinh.Designer.cs">
       <DependentUpon>frmChinh.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCon.Designer.cs">
+      <DependentUpon>frmCon.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmChinh.resx">
       <DependentUpon>frmChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCon.resx">
+      <DependentUpon>frmCon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
