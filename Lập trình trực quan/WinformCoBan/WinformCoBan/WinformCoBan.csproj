@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AF682E7-614E-45FC-AB58-C4DF258B1200}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WinformCoBan</RootNamespace>
+    <AssemblyName>WinformCoBan</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.IdentityModel.Clients.ActiveDirectory, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.5.2.9\lib\net45\Microsoft.IdentityModel.Clients.ActiveDirectory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Logging, Version=6.14.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Logging.6.14.1\lib\net472\Microsoft.IdentityModel.Logging.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Tokens, Version=5.1.2.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Tokens.5.1.2\lib\net451\Microsoft.IdentityModel.Tokens.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Rest.ClientRuntime, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Rest.ClientRuntime.2.3.20\lib\net461\Microsoft.Rest.ClientRuntime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Rest.ClientRuntime.Azure.Authentication, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Rest.ClientRuntime.Azure.Authentication.2.4.1\lib\net461\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IO, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.IO.4.3.0\lib\net462\System.IO.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http, Version=4.1.1.3, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Net.Http.4.3.4\lib\net46\System.Net.Http.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Runtime, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.4.3.0\lib\net462\System.Runtime.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security.Cryptography.Algorithms, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net463\System.Security.Cryptography.Algorithms.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Encoding, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Encoding.4.3.0\lib\net46\System.Security.Cryptography.Encoding.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.Primitives, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.Primitives.4.3.0\lib\net46\System.Security.Cryptography.Primitives.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.X509Certificates, Version=4.1.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Cryptography.X509Certificates.4.3.0\lib\net461\System.Security.Cryptography.X509Certificates.dll</HintPath>
+      <Private>True</Private>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Child From Part\FormChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child From Part\FormChild.Designer.cs">
+      <DependentUpon>FormChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormCheckBoxAndRadioButton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormCheckBoxAndRadioButton.Designer.cs">
+      <DependentUpon>FormCheckBoxAndRadioButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Child From Part\FormParent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Child From Part\FormParent.Designer.cs">
+      <DependentUpon>FormParent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FormDanhSachLop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database\FormDanhSachLop.Designer.cs">
+      <DependentUpon>FormDanhSachLop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FormDBHocSinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database\FormDBHocSinh.Designer.cs">
+      <DependentUpon>FormDBHocSinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\FormDiemSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database\FormDiemSV.Designer.cs">
+      <DependentUpon>FormDiemSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormDock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormDock.Designer.cs">
+      <DependentUpon>FormDock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormFlowPanelLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormFlowPanelLayout.Designer.cs">
+      <DependentUpon>FormFlowPanelLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHang\FormChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHang\FormChinh.Designer.cs">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormListBoxAndCheckListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormListBoxAndCheckListBox.Designer.cs">
+      <DependentUpon>FormListBoxAndCheckListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Bài tập lớn\FormMayTinhBoTui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Bài tập lớn\FormMayTinhBoTui.Designer.cs">
+      <DependentUpon>FormMayTinhBoTui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormMẹnu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormMẹnu.Designer.cs">
+      <DependentUpon>FormMẹnu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormPasswordChar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormPasswordChar.Designer.cs">
+      <DependentUpon>FormPasswordChar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormRadioButtonAndMessengerBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormRadioButtonAndMessengerBox.Designer.cs">
+      <DependentUpon>FormRadioButtonAndMessengerBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormTab.Designer.cs">
+      <DependentUpon>FormTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormXuLyChuoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\FormXuLyChuoi.Designer.cs">
+      <DependentUpon>FormXuLyChuoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Component\Vận dụng\GroupBoxAndPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Component\Vận dụng\GroupBoxAndPanel.Designer.cs">
+      <DependentUpon>GroupBoxAndPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ThanhThaoCSharp\ChildForm\FormCon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhThaoCSharp\ChildForm\FormCon.Designer.cs">
+      <DependentUpon>FormCon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThanhThaoCSharp\ChildForm\FormMDI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThanhThaoCSharp\ChildForm\FormMDI.Designer.cs">
+      <DependentUpon>FormMDI.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Child From Part\FormChild.resx">
+      <DependentUpon>FormChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormCheckBoxAndRadioButton.resx">
+      <DependentUpon>FormCheckBoxAndRadioButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Child From Part\FormParent.resx">
+      <DependentUpon>FormParent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database\FormDanhSachLop.resx">
+      <DependentUpon>FormDanhSachLop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database\FormDBHocSinh.resx">
+      <DependentUpon>FormDBHocSinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Database\FormDiemSV.resx">
+      <DependentUpon>FormDiemSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormDock.resx">
+      <DependentUpon>FormDock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormFlowPanelLayout.resx">
+      <DependentUpon>FormFlowPanelLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHang\FormChinh.resx">
+      <DependentUpon>FormChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormListBoxAndCheckListBox.resx">
+      <DependentUpon>FormListBoxAndCheckListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Bài tập lớn\FormMayTinhBoTui.resx">
+      <DependentUpon>FormMayTinhBoTui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormMẹnu.resx">
+      <DependentUpon>FormMẹnu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormPasswordChar.resx">
+      <DependentUpon>FormPasswordChar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormRadioButtonAndMessengerBox.resx">
+      <DependentUpon>FormRadioButtonAndMessengerBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormTab.resx">
+      <DependentUpon>FormTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\FormXuLyChuoi.resx">
+      <DependentUpon>FormXuLyChuoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Component\Vận dụng\GroupBoxAndPanel.resx">
+      <DependentUpon>GroupBoxAndPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ThanhThaoCSharp\ChildForm\FormMDI.resx">
+      <DependentUpon>FormMDI.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

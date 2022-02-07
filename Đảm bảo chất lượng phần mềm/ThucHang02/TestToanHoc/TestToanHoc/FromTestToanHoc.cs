@@ -18,6 +18,7 @@ namespace TestToanHoc
             InitializeComponent();
         }
 
+        #region Hàm test
         /// <summary>
         /// Phần này trả lời phần test điểm 3D trong word là dùng để trả lời câu 20 - 22
         /// </summary>
@@ -62,6 +63,9 @@ namespace TestToanHoc
             MessageBox.Show(s, this.Text);
         }
 
+        /// <summary>
+        /// Phần này dùng để test tam giác
+        /// </summary>
         private void testTamGiac()
         {
             Diem3D A = Diem3D.DiemNgauNhien();
@@ -114,6 +118,9 @@ namespace TestToanHoc
             MessageBox.Show(s, this.Text);
         }
 
+        /// <summary>
+        /// Phần này dùng để test vector
+        /// </summary>
         private void testVector()
         {
             Diem3D A = Diem3D.DiemNgauNhien();
@@ -159,6 +166,74 @@ namespace TestToanHoc
             MessageBox.Show(s, this.Text);
         }
 
+        /// <summary>
+        /// Phần này dùng để test tứ diện
+        /// </summary>
+        private void testTuDien()
+        {
+            Diem3D A = Diem3D.DiemNgauNhien();
+            Diem3D B = Diem3D.DiemNgauNhien();
+            Diem3D C = Diem3D.DiemNgauNhien();
+            Diem3D D = Diem3D.DiemNgauNhien();
+
+            //Cái này dành cho câu 71
+            //Diem3D D = C;
+
+            //Cái này dành cho câu 74
+            //Diem3D D = Diem3D.TrongTam(A, B, C);
+
+            TuDien td = new TuDien(A, B, C, D);
+            string s = "";
+
+            if (TuDien.isTuDien(A, B, C, D))
+            {
+                s += "A, B, C, D tạo thành tứ diện\n";
+
+                // Các kết quả từ lớp TuDien
+                double TT_ABCD = td.TheTich();
+                Console.WriteLine("{0}={1}", "TT_ABCD", TT_ABCD);
+
+                double DT_BCD = td.DienTichBCD();
+                double CaoTuA = td.ChieuCaoTuA();
+                double DT_ACD = td.DienTichACD();
+                double CaoTuB = td.ChieuCaoTuB();
+                double DT_ABD = td.DienTichABD();
+                double CaoTuC = td.ChieuCaoTuC();
+                double DT_ABC = td.DienTichABC();
+                double CaoTuD = td.ChieuCaoTuD();
+
+                // Các kết quả tính trực tiếp
+                double TT_ABCD_1 = Math.Abs(Vector3D.TichHonTap(new Vector3D(A, B), new Vector3D(A, C), new Vector3D(A, D))) / 6;
+                Console.WriteLine("{0}={1}", "TT_ABCD_1", TT_ABCD_1);
+
+                double DT_BCD_1 = (new TamGiac(B, C, D)).DienTich();
+                double CaoTuA_1 = 3 * TT_ABCD_1 / DT_BCD_1;
+                double DT_ACD_1 = (new TamGiac(A, C, D)).DienTich();
+                double CaoTuB_1 = 3 * TT_ABCD_1 / DT_ACD_1;
+                double DT_ABD_1 = (new TamGiac(A, B, D)).DienTich();
+                double CaoTuC_1 = 3 * TT_ABCD_1 / DT_ABD_1;
+                double DT_ABC_1 = (new TamGiac(A, B, C)).DienTich();
+                double CaoTuD_1 = 3 * TT_ABCD_1 / DT_ABC_1;
+
+                // So sánh các kết quả
+                s += "Tính thể tích tứ diện ABCD " + ((TT_ABCD == TT_ABCD_1) ? "đúng" : "sai") + "\n";
+                s += "Tính diện tích tam giác BCD " + ((DT_BCD == DT_BCD_1) ? "đúng" : "sai") + "\n";
+                s += "Tính chiều cao từ A " + ((CaoTuA == CaoTuA_1) ? "đúng" : "sai") + "\n";
+                s += "Tính diện tích tam giác ACD " + ((DT_ACD == DT_ACD_1) ? "đúng" : "sai") + "\n";
+                s += "Tính chiều cao từ B " + ((CaoTuB == CaoTuB_1) ? "đúng" : "sai") + "\n";
+                s += "Tính diện tích tam giác ABD " + ((DT_ABD == DT_ABD_1) ? "đúng" : "sai") + "\n";
+                s += "Tính chiều cao từ C " + ((CaoTuC == CaoTuC_1) ? "đúng" : "sai") + "\n";
+                s += "Tính diện tích tam giác ABC " + ((DT_ABC == DT_ABC_1) ? "đúng" : "sai") + "\n";
+                s += "Tính chiều cao từ D " + ((CaoTuD == CaoTuD_1) ? "đúng" : "sai") + "\n";
+            }
+            else
+                s += "A, B, C, D không tạo thành tứ diện\n";
+
+            MessageBox.Show(s, this.Text);
+        }
+        #endregion
+
+        #region Hàm sự kiện
         private void buttonTestDiem3D_Click(object sender, EventArgs e)
         {
             testDiem3D();
@@ -173,5 +248,11 @@ namespace TestToanHoc
         {
             testVector();
         }
+
+        private void buttonTestTuDien_Click(object sender, EventArgs e)
+        {
+            testTuDien();
+        }
+        #endregion
     }
 }

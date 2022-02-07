@@ -89,6 +89,37 @@ namespace ToanHoc
             TamGiac BCD = new TamGiac(B0, C0, D0);
             return BCD.DienTich();
         }
+        public static bool isTuDien(Diem3D A1, Diem3D B1, Diem3D C1, Diem3D D1)
+        {
+            const double epsilon = 1E-10;
+            Vector3D V1 = new Vector3D(A1, B1);
+            Vector3D V2 = new Vector3D(A1, C1);
+            Vector3D V3 = new Vector3D(A1, D1);
+            return Math.Abs(Vector3D.TichHonTap(V1, V2, V3)) > epsilon;
+        }
+        public double TheTich()
+        {
+            Vector3D V1 = new Vector3D(A0, B0);
+            Vector3D V2 = new Vector3D(A0, C0);
+            Vector3D V3 = new Vector3D(A0, D0);
+            return Math.Abs(Vector3D.TichHonTap(V1, V2, V3) / 6);
+        }
+        public double ChieuCaoTuA()
+        {
+            return 3 * TheTich() / DienTichBCD();
+        }
+        public double ChieuCaoTuB()
+        {
+            return 3 * TheTich() / DienTichACD();
+        }
+        public double ChieuCaoTuC()
+        {
+            return 3 * TheTich() / DienTichABD();
+        }
+        public double ChieuCaoTuD()
+        {
+            return 3 * TheTich() / DienTichABC();
+        }
         #endregion
     }
 }

@@ -32,6 +32,7 @@ namespace TestToanHoc
             this.buttonTestDiem3D = new System.Windows.Forms.Button();
             this.buttonTestTamGiac = new System.Windows.Forms.Button();
             this.buttonTestVector = new System.Windows.Forms.Button();
+            this.buttonTestTuDien = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonTestDiem3D
@@ -56,7 +57,7 @@ namespace TestToanHoc
             // 
             // buttonTestVector
             // 
-            this.buttonTestVector.Location = new System.Drawing.Point(76, 101);
+            this.buttonTestVector.Location = new System.Drawing.Point(77, 101);
             this.buttonTestVector.Name = "buttonTestVector";
             this.buttonTestVector.Size = new System.Drawing.Size(95, 23);
             this.buttonTestVector.TabIndex = 2;
@@ -64,11 +65,22 @@ namespace TestToanHoc
             this.buttonTestVector.UseVisualStyleBackColor = true;
             this.buttonTestVector.Click += new System.EventHandler(this.buttonTestVector_Click);
             // 
+            // buttonTestTuDien
+            // 
+            this.buttonTestTuDien.Location = new System.Drawing.Point(77, 139);
+            this.buttonTestTuDien.Name = "buttonTestTuDien";
+            this.buttonTestTuDien.Size = new System.Drawing.Size(95, 23);
+            this.buttonTestTuDien.TabIndex = 3;
+            this.buttonTestTuDien.Text = "Test tứ diện";
+            this.buttonTestTuDien.UseVisualStyleBackColor = true;
+            this.buttonTestTuDien.Click += new System.EventHandler(this.buttonTestTuDien_Click);
+            // 
             // FromTestToanHoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(246, 224);
+            this.Controls.Add(this.buttonTestTuDien);
             this.Controls.Add(this.buttonTestVector);
             this.Controls.Add(this.buttonTestTamGiac);
             this.Controls.Add(this.buttonTestDiem3D);
@@ -83,6 +95,7 @@ namespace TestToanHoc
         private System.Windows.Forms.Button buttonTestDiem3D;
         private System.Windows.Forms.Button buttonTestTamGiac;
         private System.Windows.Forms.Button buttonTestVector;
+        private System.Windows.Forms.Button buttonTestTuDien;
     }
 }
 
