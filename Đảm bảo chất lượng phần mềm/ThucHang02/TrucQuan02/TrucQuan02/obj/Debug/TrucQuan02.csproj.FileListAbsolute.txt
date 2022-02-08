@@ -9,3 +9,10 @@ D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CShar
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.exe
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.pdb
 D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.FormDiem3D.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.FormTamGiac.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.FormTuDien.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.FormVector3D.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.FormAbout.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\bin\Debug\ToanHoc.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\bin\Debug\ToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TrucQuan02\TrucQuan02\obj\Debug\TrucQuan02.csproj.CopyComplete
