@@ -98,6 +98,10 @@ namespace TrucQuan02
 
         private void toolStripMenuItemKetThuc_Click(object sender, EventArgs e)
         {
+            if (Visit_Point >= 100)
+                MessageBox.Show("Bạn đã học được cách thử nghiệm hộp đen\n"
+                + "và cách triển khai TopDown", this.Text);
+            Application.Exit();
 
         }
 

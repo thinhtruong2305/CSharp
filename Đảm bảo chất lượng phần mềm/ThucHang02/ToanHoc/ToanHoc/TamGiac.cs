@@ -80,7 +80,12 @@ namespace ToanHoc
         }
         public static bool isTamGiac(Diem3D A1, Diem3D B1, Diem3D C1)
         {
-            return A1 != B1 && A1 != C1 && B1 != C1;
+            //return A1 != B1 && A1 != C1 && B1 != C1;
+
+            const double Epsilon = 1e-10;
+            bool HopLe = A1 != B1 && A1 != C1 && B1 != C1;
+            HopLe &= Vector3D.TichCoHuong(new Vector3D(A1, B1), new Vector3D(A1, C1)).Module() > Epsilon;
+            return HopLe;
         }
         #endregion
     }
