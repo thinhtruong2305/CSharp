@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestToanHoc", "TestToanHoc\TestToanHoc.csproj", "{F1B7F06F-F694-48C3-B88D-E727EDD2D7BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B7F06F-F694-48C3-B88D-E727EDD2D7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B7F06F-F694-48C3-B88D-E727EDD2D7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B7F06F-F694-48C3-B88D-E727EDD2D7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B7F06F-F694-48C3-B88D-E727EDD2D7BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F17952E9-D534-4C22-97B0-2551C6069D1F}
+	EndGlobalSection
+EndGlobal
