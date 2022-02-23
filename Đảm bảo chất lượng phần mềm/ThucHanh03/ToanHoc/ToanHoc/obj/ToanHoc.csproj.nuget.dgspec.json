@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\admin\\Documents\\DocumentStudy\\Đại học\\Bài thực hành\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj": {}
+    "D:\\Users\\admin\\Documents\\DocumentStudy\\DaiHoc\\BaiThucHanh\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj": {}
   },
   "projects": {
-    "D:\\Users\\admin\\Documents\\DocumentStudy\\Đại học\\Bài thực hành\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj": {
+    "D:\\Users\\admin\\Documents\\DocumentStudy\\DaiHoc\\BaiThucHanh\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj": {
       "version": "2.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\admin\\Documents\\DocumentStudy\\Đại học\\Bài thực hành\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj",
+        "projectUniqueName": "D:\\Users\\admin\\Documents\\DocumentStudy\\DaiHoc\\BaiThucHanh\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj",
         "projectName": "ToanHoc",
-        "projectPath": "D:\\Users\\admin\\Documents\\DocumentStudy\\Đại học\\Bài thực hành\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj",
+        "projectPath": "D:\\Users\\admin\\Documents\\DocumentStudy\\DaiHoc\\BaiThucHanh\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\ToanHoc.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\admin\\Documents\\DocumentStudy\\Đại học\\Bài thực hành\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\obj\\",
+        "outputPath": "D:\\Users\\admin\\Documents\\DocumentStudy\\DaiHoc\\BaiThucHanh\\Code\\CSharp\\Đảm bảo chất lượng phần mềm\\ThucHanh03\\ToanHoc\\ToanHoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

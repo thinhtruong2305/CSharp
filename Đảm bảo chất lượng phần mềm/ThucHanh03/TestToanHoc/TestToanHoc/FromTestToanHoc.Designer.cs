@@ -33,6 +33,8 @@ namespace TestToanHoc
             this.buttonTestTamGiac = new System.Windows.Forms.Button();
             this.buttonTestVector = new System.Windows.Forms.Button();
             this.buttonTestTuDien = new System.Windows.Forms.Button();
+            this.buttonTestMatPhang = new System.Windows.Forms.Button();
+            this.buttonHePTTT = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // buttonTestDiem3D
@@ -75,11 +77,33 @@ namespace TestToanHoc
             this.buttonTestTuDien.UseVisualStyleBackColor = true;
             this.buttonTestTuDien.Click += new System.EventHandler(this.buttonTestTuDien_Click);
             // 
+            // buttonTestMatPhang
+            // 
+            this.buttonTestMatPhang.Location = new System.Drawing.Point(77, 179);
+            this.buttonTestMatPhang.Name = "buttonTestMatPhang";
+            this.buttonTestMatPhang.Size = new System.Drawing.Size(95, 23);
+            this.buttonTestMatPhang.TabIndex = 4;
+            this.buttonTestMatPhang.Text = "Test mặt phẳng";
+            this.buttonTestMatPhang.UseVisualStyleBackColor = true;
+            this.buttonTestMatPhang.Click += new System.EventHandler(this.buttonTestMatPhang_Click);
+            // 
+            // buttonHePTTT
+            // 
+            this.buttonHePTTT.Location = new System.Drawing.Point(42, 216);
+            this.buttonHePTTT.Name = "buttonHePTTT";
+            this.buttonHePTTT.Size = new System.Drawing.Size(173, 23);
+            this.buttonHePTTT.TabIndex = 5;
+            this.buttonHePTTT.Text = "Test Hệ phương trình tuyến tính";
+            this.buttonHePTTT.UseVisualStyleBackColor = true;
+            this.buttonHePTTT.Click += new System.EventHandler(this.buttonHePTTT_Click);
+            // 
             // FromTestToanHoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(246, 224);
+            this.ClientSize = new System.Drawing.Size(246, 258);
+            this.Controls.Add(this.buttonHePTTT);
+            this.Controls.Add(this.buttonTestMatPhang);
             this.Controls.Add(this.buttonTestTuDien);
             this.Controls.Add(this.buttonTestVector);
             this.Controls.Add(this.buttonTestTamGiac);
@@ -96,6 +120,8 @@ namespace TestToanHoc
         private System.Windows.Forms.Button buttonTestTamGiac;
         private System.Windows.Forms.Button buttonTestVector;
         private System.Windows.Forms.Button buttonTestTuDien;
+        private System.Windows.Forms.Button buttonTestMatPhang;
+        private System.Windows.Forms.Button buttonHePTTT;
     }
 }
 

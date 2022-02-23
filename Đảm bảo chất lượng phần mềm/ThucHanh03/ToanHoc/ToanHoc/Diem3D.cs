@@ -22,6 +22,7 @@ namespace ToanHoc
             z0 = z;
         }
         #endregion
+
         #region Các đặc trưng
         public double x
         {
@@ -41,6 +42,7 @@ namespace ToanHoc
             get { return z0; }
         }
         #endregion
+
         #region Các phương thức
         public static Diem3D TrungDiem(Diem3D A, Diem3D B)
         {
@@ -102,4 +104,4 @@ namespace ToanHoc
         }
         #endregion
     }
-    }
+}

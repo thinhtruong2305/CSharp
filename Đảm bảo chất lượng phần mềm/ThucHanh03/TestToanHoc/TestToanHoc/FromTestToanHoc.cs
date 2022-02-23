@@ -231,6 +231,75 @@ namespace TestToanHoc
 
             MessageBox.Show(s, this.Text);
         }
+
+        /// <summary>
+        /// Phần này dùng dể test mặt phẳng
+        /// </summary>
+        private void testMatPhang()
+        {
+            Random rndObj = new Random();
+
+            double a1 = rndObj.NextDouble() * 10;
+            double b1 = rndObj.NextDouble() * 10;
+            double c1 = rndObj.NextDouble() * 10;
+            double d1 = rndObj.NextDouble() * 10;
+
+            //Phần này là ngẫu nhiên
+            double a2 = rndObj.NextDouble() * 10;
+            double b2 = rndObj.NextDouble() * 10;
+            double c2 = rndObj.NextDouble() * 10;
+            double d2 = rndObj.NextDouble() * 10;
+
+            //Phần này là song song
+            /*double a2 = a1 * 2;
+            double b2 = b1 * 2;
+            double c2 = c1 * 2;
+            double d2 = rndObj.NextDouble() * 10;*/
+
+            //Phần này trùng nhau
+            /*double a2 = a1 * 2;
+            double b2 = b1 * 2;
+            double c2 = c1 * 2;
+            double d2 = d1 * 2;*/
+
+            String s = "";
+
+            s += String.Format("{0}x", a1);
+            s += (b1 >= 0 ? "+" : "") + String.Format("{0}y", b1);
+            s += (c1 >= 0 ? "+" : "") + String.Format("{0}z ", c1);
+            s += String.Format("={0}", d1);
+
+            bool kq1 = MatPhang.LaMatPhang(a1, b1, c1, d1);
+
+            if (kq1)
+                s += String.Format(" là phương trình mặt phẳng\n");
+            else
+                s += String.Format(" không là phương trình mặt phẳng\n");
+            s += String.Format("{0}x", a2);
+            s += (b2 >= 0 ? "+" : "") + String.Format("{0}y", b2);
+            s += (c2 >= 0 ? "+" : "") + String.Format("{0}z ", c2);
+            s += String.Format("={0}", d2);
+
+            bool kq2 = MatPhang.LaMatPhang(a2, b2, c2, d2);
+
+            if (kq2)
+                s += String.Format(" là phương trình mặt phẳng\n");
+            else
+                s += String.Format(" không là phương trình mặt phẳng\n");
+            if (kq1 && kq2)
+            {
+                MatPhang mp1 = new MatPhang(a1, b1, c1, d1);
+                MatPhang mp2 = new MatPhang(a2, b2, c2, d2);
+
+                if (MatPhang.SongSong(mp1, mp2))
+                    s += "Hai mặt phẳng đã cho song song";
+                if (MatPhang.TrungNhau(mp1, mp2))
+                    s += "Hai mặt phẳng đã cho trùng nhau";
+                if (MatPhang.CatNhau(mp1, mp2))
+                    s += "Hai mặt phẳng đã cho cắt nhau";
+            }
+            MessageBox.Show(s, this.Text);
+        }
         #endregion
 
         #region Hàm sự kiện
@@ -253,6 +322,79 @@ namespace TestToanHoc
         {
             testTuDien();
         }
+
+        private void buttonTestMatPhang_Click(object sender, EventArgs e)
+        {
+            testMatPhang();
+        }
         #endregion
+
+        private void buttonHePTTT_Click(object sender, EventArgs e)
+        {
+            Random rndObj = new Random();
+
+            double a1 = rndObj.NextDouble() * 10;
+            double b1 = rndObj.NextDouble() * 10;
+            double c1 = rndObj.NextDouble() * 10;
+            double d1 = rndObj.NextDouble() * 10;
+
+            double a2 = rndObj.NextDouble() * 10;
+            double b2 = rndObj.NextDouble() * 10;
+            double c2 = rndObj.NextDouble() * 10;
+            double d2 = rndObj.NextDouble() * 10;
+
+            double a3 = rndObj.NextDouble() * 10;
+            double b3 = rndObj.NextDouble() * 10;
+            double c3 = rndObj.NextDouble() * 10;
+            double d3 = rndObj.NextDouble() * 10;
+
+            //Phần này dùng cho không có lời giải
+            /*double a3 = a1 * 2;
+            double b3 = b1 * 2;
+            double c3 = c1 * 2;
+            double d3 = rndObj.NextDouble() * 10;*/
+
+            //Phần này dùng cho vô số lời giải
+            /*double a3 = a1 * 2;
+            double b3 = b1 * 2;
+            double c3 = c1 * 2;
+            double d3 = d1 * 2;*/
+
+            string s = "";
+            bool kq1 = MatPhang.LaMatPhang(a1, b1, c1, d1);
+            bool kq2 = MatPhang.LaMatPhang(a2, b2, c2, d2);
+            bool kq3 = MatPhang.LaMatPhang(a3, b3, c3, d3);
+
+            if (kq1 && kq2 && kq3)
+            {
+                s += "Mặt phẳng 1: " + string.Format("{0}x+{1}y+{2}z={3}", a1, b1, c1, d1) + "\n";
+                s += "Mặt phẳng 2: " + string.Format("{0}x+{1}y+{2}z={3}", a2, b2, c2, d2) + "\n";
+                s += "Mặt phẳng 3: " + string.Format("{0}x+{1}y+{2}z={3}", a3, b3, c3, d3) + "\n";
+
+                MatPhang mp1 = new MatPhang(a1, b1, c1, d1);
+                MatPhang mp2 = new MatPhang(a2, b2, c2, d2);
+                MatPhang mp3 = new MatPhang(a3, b3, c3, d3);
+
+                HePTTT hpttt = new HePTTT(mp1, mp2, mp3);
+                if (hpttt.CoLoiGiai())
+                {
+                    s += "Hệ PTTT đã cho có lời giải\n";
+                    s += hpttt.LoiGiai().ToString();
+                }
+                else if (hpttt.CoVoSoLoiGiai())
+                {
+                    s += "Hệ PTTT đã cho có vô số lời giải\n";
+                }
+                else if (hpttt.KhongCoSoLoiGiai())
+                {
+                    s += "Hệ PTTT đã cho không có lời giải\n";
+                }
+                else
+                    s += "Có lỗi sai trong chương trình\n";
+            }
+            else
+                s += "Việc tạo 3 mặt phẳng thất bại";
+            MessageBox.Show(s, this.Text);
+        }
     }
 }
