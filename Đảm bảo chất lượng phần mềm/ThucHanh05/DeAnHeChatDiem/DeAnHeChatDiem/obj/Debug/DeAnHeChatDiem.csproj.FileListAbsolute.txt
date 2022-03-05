@@ -1,0 +1,10 @@
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\bin\Debug\DeAnHeChatDiem.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\bin\Debug\DeAnHeChatDiem.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\bin\Debug\DeAnHeChatDiem.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.FormHeChatDiem.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnHeChatDiem\DeAnHeChatDiem\obj\Debug\DeAnHeChatDiem.pdb
