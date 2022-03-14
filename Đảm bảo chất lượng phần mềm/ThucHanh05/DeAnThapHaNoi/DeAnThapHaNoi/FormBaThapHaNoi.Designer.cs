@@ -30,18 +30,18 @@ namespace DeAnThapHaNoi
         private void InitializeComponent()
         {
             this.panelTop = new System.Windows.Forms.Panel();
+            this.labelTitle = new System.Windows.Forms.Label();
             this.panelCenter = new System.Windows.Forms.Panel();
             this.panelCenterRight = new System.Windows.Forms.Panel();
-            this.panelCenterFill = new System.Windows.Forms.Panel();
-            this.panelBottom = new System.Windows.Forms.Panel();
-            this.labelTitle = new System.Windows.Forms.Label();
             this.numericUpDownDoCao = new System.Windows.Forms.NumericUpDown();
+            this.panelCenterFill = new System.Windows.Forms.Panel();
             this.userControlBaThapHaNoi = new DeAnThapHaNoi.UserControlBaThapHaNoi();
+            this.panelBottom = new System.Windows.Forms.Panel();
             this.panelTop.SuspendLayout();
             this.panelCenter.SuspendLayout();
             this.panelCenterRight.SuspendLayout();
-            this.panelCenterFill.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownDoCao)).BeginInit();
+            this.panelCenterFill.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelTop
@@ -52,6 +52,19 @@ namespace DeAnThapHaNoi
             this.panelTop.Name = "panelTop";
             this.panelTop.Size = new System.Drawing.Size(707, 70);
             this.panelTop.TabIndex = 0;
+            // 
+            // labelTitle
+            // 
+            this.labelTitle.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.labelTitle.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.labelTitle.Font = new System.Drawing.Font("Times New Roman", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTitle.ForeColor = System.Drawing.Color.Crimson;
+            this.labelTitle.Location = new System.Drawing.Point(0, 0);
+            this.labelTitle.Name = "labelTitle";
+            this.labelTitle.Size = new System.Drawing.Size(707, 70);
+            this.labelTitle.TabIndex = 0;
+            this.labelTitle.Text = "Title";
+            this.labelTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // panelCenter
             // 
@@ -72,6 +85,14 @@ namespace DeAnThapHaNoi
             this.panelCenterRight.Size = new System.Drawing.Size(208, 363);
             this.panelCenterRight.TabIndex = 1;
             // 
+            // numericUpDownDoCao
+            // 
+            this.numericUpDownDoCao.Enabled = false;
+            this.numericUpDownDoCao.Location = new System.Drawing.Point(68, 28);
+            this.numericUpDownDoCao.Name = "numericUpDownDoCao";
+            this.numericUpDownDoCao.Size = new System.Drawing.Size(81, 20);
+            this.numericUpDownDoCao.TabIndex = 0;
+            // 
             // panelCenterFill
             // 
             this.panelCenterFill.Controls.Add(this.userControlBaThapHaNoi);
@@ -81,34 +102,6 @@ namespace DeAnThapHaNoi
             this.panelCenterFill.Size = new System.Drawing.Size(707, 363);
             this.panelCenterFill.TabIndex = 0;
             // 
-            // panelBottom
-            // 
-            this.panelBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelBottom.Location = new System.Drawing.Point(0, 433);
-            this.panelBottom.Name = "panelBottom";
-            this.panelBottom.Size = new System.Drawing.Size(707, 43);
-            this.panelBottom.TabIndex = 1;
-            // 
-            // labelTitle
-            // 
-            this.labelTitle.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.labelTitle.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.labelTitle.Font = new System.Drawing.Font("Times New Roman", 30F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelTitle.ForeColor = System.Drawing.Color.Crimson;
-            this.labelTitle.Location = new System.Drawing.Point(0, 0);
-            this.labelTitle.Name = "labelTitle";
-            this.labelTitle.Size = new System.Drawing.Size(707, 70);
-            this.labelTitle.TabIndex = 0;
-            this.labelTitle.Text = "Title";
-            this.labelTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            // 
-            // numericUpDownDoCao
-            // 
-            this.numericUpDownDoCao.Location = new System.Drawing.Point(68, 28);
-            this.numericUpDownDoCao.Name = "numericUpDownDoCao";
-            this.numericUpDownDoCao.Size = new System.Drawing.Size(81, 20);
-            this.numericUpDownDoCao.TabIndex = 0;
-            // 
             // userControlBaThapHaNoi
             // 
             this.userControlBaThapHaNoi.BackColor = System.Drawing.Color.Lime;
@@ -117,6 +110,14 @@ namespace DeAnThapHaNoi
             this.userControlBaThapHaNoi.Name = "userControlBaThapHaNoi";
             this.userControlBaThapHaNoi.Size = new System.Drawing.Size(707, 363);
             this.userControlBaThapHaNoi.TabIndex = 0;
+            // 
+            // panelBottom
+            // 
+            this.panelBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panelBottom.Location = new System.Drawing.Point(0, 433);
+            this.panelBottom.Name = "panelBottom";
+            this.panelBottom.Size = new System.Drawing.Size(707, 43);
+            this.panelBottom.TabIndex = 1;
             // 
             // FormBaThapHaNoi
             // 
@@ -131,8 +132,8 @@ namespace DeAnThapHaNoi
             this.panelTop.ResumeLayout(false);
             this.panelCenter.ResumeLayout(false);
             this.panelCenterRight.ResumeLayout(false);
-            this.panelCenterFill.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownDoCao)).EndInit();
+            this.panelCenterFill.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }

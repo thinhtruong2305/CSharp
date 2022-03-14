@@ -59,15 +59,18 @@ namespace DeAnThapHaNoi
         }
         private void numericUpDownDoCaoThap_ValueChanged(object sender, EventArgs e)
         {
-            DoCao = (int)numericUpDownDoCaoThap.Value;
-            numericUpDownSoBuocToiDa.Value = (1 << DoCao) - 1;
-            FormXP.DoCao = FormTH.DoCao = FormDD.DoCao = DoCao;
-
-            if (Calc1_Done == 0)
+            if(numericUpDownDoCaoThap.Value <= 12 && numericUpDownDoCaoThap.Value >= 1)
             {
-                Calc1_Done = FormDeAnThapHaNoi.Calculated_NangCao / 4;
-                FormDeAnThapHaNoi.Visit_Point += Calc1_Done;
-                ((FormDeAnThapHaNoi)this.MdiParent).TienDo_Refresh();
+                DoCao = (int)numericUpDownDoCaoThap.Value;
+                numericUpDownSoBuocToiDa.Value = (1 << DoCao) - 1;
+                FormXP.DoCao = FormTH.DoCao = FormDD.DoCao = DoCao;
+
+                if (Calc1_Done == 0)
+                {
+                    Calc1_Done = FormDeAnThapHaNoi.Calculated_NangCao / 4;
+                    FormDeAnThapHaNoi.Visit_Point += Calc1_Done;
+                    ((FormDeAnThapHaNoi)this.MdiParent).TienDo_Refresh();
+                }
             }
         }
 

@@ -77,6 +77,9 @@ namespace DeAnThapHaNoi
                     int SoThap = (int)c - 48;
                     int SoDia = _DoCao - vtDia;
 
+                    if (!vtDia.Equals(SoDia))
+                        SoDia = vtDia;
+
                     if (FormThapHaNoiNangCao.DangThoatRa)
                         break;
 
