@@ -86,10 +86,10 @@ namespace CandyBugWinformDemo
             // Logo
             // 
             this.Logo.Image = ((System.Drawing.Image)(resources.GetObject("Logo.Image")));
-            this.Logo.Location = new System.Drawing.Point(110, 23);
+            this.Logo.Location = new System.Drawing.Point(110, 8);
             this.Logo.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.Logo.Name = "Logo";
-            this.Logo.Size = new System.Drawing.Size(245, 174);
+            this.Logo.Size = new System.Drawing.Size(245, 189);
             this.Logo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.Logo.TabIndex = 0;
             this.Logo.TabStop = false;
@@ -101,7 +101,7 @@ namespace CandyBugWinformDemo
             this.label1.Location = new System.Drawing.Point(157, 168);
             this.label1.Margin = new System.Windows.Forms.Padding(9, 0, 9, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(148, 46);
+            this.label1.Size = new System.Drawing.Size(122, 37);
             this.label1.TabIndex = 1;
             this.label1.Text = "LOGIN";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -141,7 +141,7 @@ namespace CandyBugWinformDemo
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(265, 429);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(86, 18);
+            this.label2.Size = new System.Drawing.Size(72, 15);
             this.label2.TabIndex = 7;
             this.label2.Text = "Clear Fields";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -164,7 +164,7 @@ namespace CandyBugWinformDemo
             this.lbUserName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.lbUserName.Location = new System.Drawing.Point(3, 2);
             this.lbUserName.Name = "lbUserName";
-            this.lbUserName.Size = new System.Drawing.Size(119, 25);
+            this.lbUserName.Size = new System.Drawing.Size(98, 20);
             this.lbUserName.TabIndex = 9;
             this.lbUserName.Text = "User Name";
             // 
@@ -181,7 +181,7 @@ namespace CandyBugWinformDemo
             // 
             this.txtUsername.Location = new System.Drawing.Point(0, 30);
             this.txtUsername.Name = "txtUsername";
-            this.txtUsername.Size = new System.Drawing.Size(383, 34);
+            this.txtUsername.Size = new System.Drawing.Size(383, 30);
             this.txtUsername.StateCommon.Back.Color1 = System.Drawing.Color.White;
             this.txtUsername.StateCommon.Border.Color1 = System.Drawing.Color.DarkOrange;
             this.txtUsername.StateCommon.Border.Color2 = System.Drawing.Color.DarkOrange;
@@ -192,6 +192,7 @@ namespace CandyBugWinformDemo
             this.txtUsername.StateCommon.Content.Color1 = System.Drawing.Color.Gray;
             this.txtUsername.StateCommon.Content.Padding = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.txtUsername.TabIndex = 10;
+            this.txtUsername.Text = "pnt11";
             // 
             // panel2
             // 
@@ -207,7 +208,7 @@ namespace CandyBugWinformDemo
             this.txtPassword.Location = new System.Drawing.Point(0, 30);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.PasswordChar = '*';
-            this.txtPassword.Size = new System.Drawing.Size(383, 34);
+            this.txtPassword.Size = new System.Drawing.Size(383, 30);
             this.txtPassword.StateCommon.Back.Color1 = System.Drawing.Color.White;
             this.txtPassword.StateCommon.Border.Color1 = System.Drawing.Color.DarkOrange;
             this.txtPassword.StateCommon.Border.Color2 = System.Drawing.Color.DarkOrange;
@@ -218,6 +219,7 @@ namespace CandyBugWinformDemo
             this.txtPassword.StateCommon.Content.Color1 = System.Drawing.Color.Gray;
             this.txtPassword.StateCommon.Content.Padding = new System.Windows.Forms.Padding(10, 0, 10, 0);
             this.txtPassword.TabIndex = 10;
+            this.txtPassword.Text = "0";
             // 
             // label3
             // 
@@ -226,7 +228,7 @@ namespace CandyBugWinformDemo
             this.label3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
             this.label3.Location = new System.Drawing.Point(3, 2);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(106, 25);
+            this.label3.Size = new System.Drawing.Size(86, 20);
             this.label3.TabIndex = 9;
             this.label3.Text = "Password";
             // 
@@ -247,7 +249,7 @@ namespace CandyBugWinformDemo
             // 
             // FormLogin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(23F, 45F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(18F, 36F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1086, 607);

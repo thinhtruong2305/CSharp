@@ -29,83 +29,79 @@ namespace CandyBugWinformDemo.NewFolder1
         /// </summary>
         private void InitializeComponent()
         {
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.dateTimePicker2 = new System.Windows.Forms.DateTimePicker();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePickerTo = new System.Windows.Forms.DateTimePicker();
+            this.dateTimePickerFrom = new System.Windows.Forms.DateTimePicker();
             this.btnExcel = new System.Windows.Forms.Button();
             this.btnReset = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.panel3 = new System.Windows.Forms.Panel();
             this.btnNext = new System.Windows.Forms.Button();
             this.btnLast = new System.Windows.Forms.Button();
             this.btPageNumber = new System.Windows.Forms.Button();
             this.btnPreviours = new System.Windows.Forms.Button();
             this.btnFirst = new System.Windows.Forms.Button();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.panelHienThiThongTIn = new System.Windows.Forms.Panel();
+            this.textBoxTongOrder = new System.Windows.Forms.TextBox();
+            this.textBoxTongTien = new System.Windows.Forms.TextBox();
+            this.textBoxTimKiem = new System.Windows.Forms.TextBox();
+            this.dataGridViewStatistical = new System.Windows.Forms.DataGridView();
+            this.kryptonLabelFrom = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
+            this.kryptonLabelTo = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
+            this.kryptonLabelPhanThongTIn = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
+            this.kryptonLabelTongTien = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
+            this.kryptonLabelTongLanOrder = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
+            this.kryptonLabelTimKiem = new ComponentFactory.Krypton.Toolkit.KryptonLabel();
             this.panel1.SuspendLayout();
             this.panel3.SuspendLayout();
+            this.panelHienThiThongTIn.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStatistical)).BeginInit();
             this.SuspendLayout();
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dataGridView1.BackgroundColor = System.Drawing.Color.White;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.Column1,
-            this.Column2,
-            this.Column3,
-            this.Column4,
-            this.Column5});
-            this.dataGridView1.GridColor = System.Drawing.Color.Black;
-            this.dataGridView1.Location = new System.Drawing.Point(5, 90);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowHeadersWidth = 51;
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(838, 487);
-            this.dataGridView1.TabIndex = 0;
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.dateTimePicker2);
-            this.panel1.Controls.Add(this.dateTimePicker1);
+            this.panel1.Controls.Add(this.kryptonLabelTo);
+            this.panel1.Controls.Add(this.kryptonLabelFrom);
+            this.panel1.Controls.Add(this.dateTimePickerTo);
+            this.panel1.Controls.Add(this.dateTimePickerFrom);
             this.panel1.Controls.Add(this.btnExcel);
             this.panel1.Controls.Add(this.btnReset);
-            this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.label1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(2);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(849, 84);
+            this.panel1.Size = new System.Drawing.Size(637, 68);
             this.panel1.TabIndex = 2;
+            this.panel1.Click += new System.EventHandler(this.panel1_Click);
             // 
-            // dateTimePicker2
+            // dateTimePickerTo
             // 
-            this.dateTimePicker2.CalendarForeColor = System.Drawing.Color.Brown;
-            this.dateTimePicker2.CalendarTitleBackColor = System.Drawing.Color.OrangeRed;
-            this.dateTimePicker2.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimePicker2.Location = new System.Drawing.Point(268, 34);
-            this.dateTimePicker2.Name = "dateTimePicker2";
-            this.dateTimePicker2.Size = new System.Drawing.Size(137, 22);
-            this.dateTimePicker2.TabIndex = 4;
+            this.dateTimePickerTo.CalendarForeColor = System.Drawing.Color.Brown;
+            this.dateTimePickerTo.CalendarTitleBackColor = System.Drawing.Color.OrangeRed;
+            this.dateTimePickerTo.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimePickerTo.Location = new System.Drawing.Point(219, 28);
+            this.dateTimePickerTo.Margin = new System.Windows.Forms.Padding(2);
+            this.dateTimePickerTo.Name = "dateTimePickerTo";
+            this.dateTimePickerTo.Size = new System.Drawing.Size(104, 20);
+            this.dateTimePickerTo.TabIndex = 4;
+            this.dateTimePickerTo.Value = new System.DateTime(2021, 10, 29, 21, 54, 57, 0);
+            this.dateTimePickerTo.ValueChanged += new System.EventHandler(this.dateTimePickerTo_ValueChanged);
             // 
-            // dateTimePicker1
+            // dateTimePickerFrom
             // 
-            this.dateTimePicker1.CalendarTitleBackColor = System.Drawing.Color.OrangeRed;
-            this.dateTimePicker1.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateTimePicker1.Location = new System.Drawing.Point(61, 34);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(137, 22);
-            this.dateTimePicker1.TabIndex = 4;
+            this.dateTimePickerFrom.CalendarTitleBackColor = System.Drawing.Color.OrangeRed;
+            this.dateTimePickerFrom.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateTimePickerFrom.Location = new System.Drawing.Point(64, 28);
+            this.dateTimePickerFrom.Margin = new System.Windows.Forms.Padding(2);
+            this.dateTimePickerFrom.Name = "dateTimePickerFrom";
+            this.dateTimePickerFrom.Size = new System.Drawing.Size(104, 20);
+            this.dateTimePickerFrom.TabIndex = 4;
+            this.dateTimePickerFrom.Value = new System.DateTime(2021, 1, 1, 0, 0, 0, 0);
+            this.dateTimePickerFrom.ValueChanged += new System.EventHandler(this.dateTimePickerFrom_ValueChanged);
             // 
             // btnExcel
             // 
@@ -113,12 +109,14 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnExcel.BackColor = System.Drawing.Color.SpringGreen;
             this.btnExcel.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExcel.ForeColor = System.Drawing.Color.Black;
-            this.btnExcel.Location = new System.Drawing.Point(721, 26);
+            this.btnExcel.Location = new System.Drawing.Point(541, 21);
+            this.btnExcel.Margin = new System.Windows.Forms.Padding(2);
             this.btnExcel.Name = "btnExcel";
-            this.btnExcel.Size = new System.Drawing.Size(104, 40);
+            this.btnExcel.Size = new System.Drawing.Size(78, 32);
             this.btnExcel.TabIndex = 3;
             this.btnExcel.Text = "Excel";
             this.btnExcel.UseVisualStyleBackColor = false;
+            this.btnExcel.Click += new System.EventHandler(this.btnExcel_Click);
             // 
             // btnReset
             // 
@@ -126,35 +124,14 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnReset.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.btnReset.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnReset.ForeColor = System.Drawing.Color.Black;
-            this.btnReset.Location = new System.Drawing.Point(599, 26);
+            this.btnReset.Location = new System.Drawing.Point(449, 21);
+            this.btnReset.Margin = new System.Windows.Forms.Padding(2);
             this.btnReset.Name = "btnReset";
-            this.btnReset.Size = new System.Drawing.Size(104, 40);
+            this.btnReset.Size = new System.Drawing.Size(78, 32);
             this.btnReset.TabIndex = 3;
             this.btnReset.Text = "Reset";
             this.btnReset.UseVisualStyleBackColor = false;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.BackColor = System.Drawing.Color.White;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(222, 36);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(28, 18);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "To";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.White;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(7, 36);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(48, 18);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "From";
+            this.btnReset.Click += new System.EventHandler(this.btnReset_Click);
             // 
             // panel3
             // 
@@ -164,9 +141,10 @@ namespace CandyBugWinformDemo.NewFolder1
             this.panel3.Controls.Add(this.btnPreviours);
             this.panel3.Controls.Add(this.btnFirst);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel3.Location = new System.Drawing.Point(0, 579);
+            this.panel3.Location = new System.Drawing.Point(0, 470);
+            this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(849, 64);
+            this.panel3.Size = new System.Drawing.Size(637, 52);
             this.panel3.TabIndex = 5;
             // 
             // btnNext
@@ -175,9 +153,10 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnNext.BackColor = System.Drawing.Color.Moccasin;
             this.btnNext.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNext.ForeColor = System.Drawing.Color.Black;
-            this.btnNext.Location = new System.Drawing.Point(629, 12);
+            this.btnNext.Location = new System.Drawing.Point(472, 10);
+            this.btnNext.Margin = new System.Windows.Forms.Padding(2);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(104, 40);
+            this.btnNext.Size = new System.Drawing.Size(78, 32);
             this.btnNext.TabIndex = 3;
             this.btnNext.Text = "Next";
             this.btnNext.UseVisualStyleBackColor = false;
@@ -188,9 +167,10 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnLast.BackColor = System.Drawing.Color.Moccasin;
             this.btnLast.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLast.ForeColor = System.Drawing.Color.Black;
-            this.btnLast.Location = new System.Drawing.Point(739, 12);
+            this.btnLast.Location = new System.Drawing.Point(554, 10);
+            this.btnLast.Margin = new System.Windows.Forms.Padding(2);
             this.btnLast.Name = "btnLast";
-            this.btnLast.Size = new System.Drawing.Size(104, 40);
+            this.btnLast.Size = new System.Drawing.Size(78, 32);
             this.btnLast.TabIndex = 3;
             this.btnLast.Text = "Last";
             this.btnLast.UseVisualStyleBackColor = false;
@@ -201,9 +181,10 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btPageNumber.BackColor = System.Drawing.Color.Moccasin;
             this.btPageNumber.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btPageNumber.ForeColor = System.Drawing.Color.Black;
-            this.btPageNumber.Location = new System.Drawing.Point(371, 12);
+            this.btPageNumber.Location = new System.Drawing.Point(278, 10);
+            this.btPageNumber.Margin = new System.Windows.Forms.Padding(2);
             this.btPageNumber.Name = "btPageNumber";
-            this.btPageNumber.Size = new System.Drawing.Size(104, 40);
+            this.btPageNumber.Size = new System.Drawing.Size(78, 32);
             this.btPageNumber.TabIndex = 3;
             this.btPageNumber.Text = "1";
             this.btPageNumber.UseVisualStyleBackColor = false;
@@ -214,9 +195,10 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnPreviours.BackColor = System.Drawing.Color.Moccasin;
             this.btnPreviours.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPreviours.ForeColor = System.Drawing.Color.Black;
-            this.btnPreviours.Location = new System.Drawing.Point(122, 12);
+            this.btnPreviours.Location = new System.Drawing.Point(92, 10);
+            this.btnPreviours.Margin = new System.Windows.Forms.Padding(2);
             this.btnPreviours.Name = "btnPreviours";
-            this.btnPreviours.Size = new System.Drawing.Size(104, 40);
+            this.btnPreviours.Size = new System.Drawing.Size(78, 32);
             this.btnPreviours.TabIndex = 3;
             this.btnPreviours.Text = "Previours";
             this.btnPreviours.UseVisualStyleBackColor = false;
@@ -227,89 +209,205 @@ namespace CandyBugWinformDemo.NewFolder1
             this.btnFirst.BackColor = System.Drawing.Color.Moccasin;
             this.btnFirst.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnFirst.ForeColor = System.Drawing.Color.Black;
-            this.btnFirst.Location = new System.Drawing.Point(12, 12);
+            this.btnFirst.Location = new System.Drawing.Point(9, 10);
+            this.btnFirst.Margin = new System.Windows.Forms.Padding(2);
             this.btnFirst.Name = "btnFirst";
-            this.btnFirst.Size = new System.Drawing.Size(104, 40);
+            this.btnFirst.Size = new System.Drawing.Size(78, 32);
             this.btnFirst.TabIndex = 3;
             this.btnFirst.Text = "First";
             this.btnFirst.UseVisualStyleBackColor = false;
             // 
-            // Column1
+            // panelHienThiThongTIn
             // 
-            this.Column1.HeaderText = "ID Item";
-            this.Column1.MinimumWidth = 6;
-            this.Column1.Name = "Column1";
-            this.Column1.Width = 125;
+            this.panelHienThiThongTIn.Controls.Add(this.kryptonLabelTimKiem);
+            this.panelHienThiThongTIn.Controls.Add(this.kryptonLabelTongLanOrder);
+            this.panelHienThiThongTIn.Controls.Add(this.kryptonLabelTongTien);
+            this.panelHienThiThongTIn.Controls.Add(this.kryptonLabelPhanThongTIn);
+            this.panelHienThiThongTIn.Controls.Add(this.textBoxTongOrder);
+            this.panelHienThiThongTIn.Controls.Add(this.textBoxTongTien);
+            this.panelHienThiThongTIn.Controls.Add(this.textBoxTimKiem);
+            this.panelHienThiThongTIn.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelHienThiThongTIn.Location = new System.Drawing.Point(0, 68);
+            this.panelHienThiThongTIn.Name = "panelHienThiThongTIn";
+            this.panelHienThiThongTIn.Size = new System.Drawing.Size(637, 138);
+            this.panelHienThiThongTIn.TabIndex = 6;
+            this.panelHienThiThongTIn.Click += new System.EventHandler(this.panelHienThiThongTIn_Click);
             // 
-            // Column2
+            // textBoxTongOrder
             // 
-            this.Column2.HeaderText = "Item";
-            this.Column2.MinimumWidth = 6;
-            this.Column2.Name = "Column2";
-            this.Column2.Width = 250;
+            this.textBoxTongOrder.BackColor = System.Drawing.SystemColors.Info;
+            this.textBoxTongOrder.Enabled = false;
+            this.textBoxTongOrder.ForeColor = System.Drawing.SystemColors.InfoText;
+            this.textBoxTongOrder.Location = new System.Drawing.Point(455, 44);
+            this.textBoxTongOrder.Name = "textBoxTongOrder";
+            this.textBoxTongOrder.Size = new System.Drawing.Size(100, 20);
+            this.textBoxTongOrder.TabIndex = 2;
             // 
-            // Column3
+            // textBoxTongTien
             // 
-            this.Column3.HeaderText = "Quantity";
-            this.Column3.MinimumWidth = 6;
-            this.Column3.Name = "Column3";
-            this.Column3.Width = 125;
+            this.textBoxTongTien.BackColor = System.Drawing.SystemColors.Info;
+            this.textBoxTongTien.Enabled = false;
+            this.textBoxTongTien.ForeColor = System.Drawing.SystemColors.InfoText;
+            this.textBoxTongTien.Location = new System.Drawing.Point(129, 44);
+            this.textBoxTongTien.Name = "textBoxTongTien";
+            this.textBoxTongTien.Size = new System.Drawing.Size(153, 20);
+            this.textBoxTongTien.TabIndex = 1;
             // 
-            // Column4
+            // textBoxTimKiem
             // 
-            this.Column4.HeaderText = "Price";
-            this.Column4.MinimumWidth = 6;
-            this.Column4.Name = "Column4";
-            this.Column4.Width = 125;
+            this.textBoxTimKiem.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.textBoxTimKiem.ForeColor = System.Drawing.Color.DarkGray;
+            this.textBoxTimKiem.Location = new System.Drawing.Point(129, 99);
+            this.textBoxTimKiem.Name = "textBoxTimKiem";
+            this.textBoxTimKiem.Size = new System.Drawing.Size(357, 20);
+            this.textBoxTimKiem.TabIndex = 0;
+            this.textBoxTimKiem.Text = "Tìm kiếm theo id của item, name của item";
+            this.textBoxTimKiem.Click += new System.EventHandler(this.textBoxTimKiem_Click);
+            this.textBoxTimKiem.TextChanged += new System.EventHandler(this.textBoxTimKiem_TextChanged);
+            this.textBoxTimKiem.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBoxTimKiem_KeyPress);
             // 
-            // Column5
+            // dataGridViewStatistical
             // 
-            this.Column5.HeaderText = "Date";
-            this.Column5.MinimumWidth = 6;
-            this.Column5.Name = "Column5";
-            this.Column5.Width = 125;
+            this.dataGridViewStatistical.AllowUserToAddRows = false;
+            this.dataGridViewStatistical.AllowUserToDeleteRows = false;
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.Black;
+            this.dataGridViewStatistical.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle6;
+            this.dataGridViewStatistical.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle7.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle7.Padding = new System.Windows.Forms.Padding(10, 0, 0, 0);
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.Desktop;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewStatistical.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
+            this.dataGridViewStatistical.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridViewStatistical.DefaultCellStyle = dataGridViewCellStyle8;
+            this.dataGridViewStatistical.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dataGridViewStatistical.Location = new System.Drawing.Point(0, 206);
+            this.dataGridViewStatistical.Name = "dataGridViewStatistical";
+            this.dataGridViewStatistical.ReadOnly = true;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle9.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridViewStatistical.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
+            this.dataGridViewStatistical.RowHeadersWidth = 51;
+            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.Black;
+            this.dataGridViewStatistical.RowsDefaultCellStyle = dataGridViewCellStyle10;
+            this.dataGridViewStatistical.Size = new System.Drawing.Size(637, 264);
+            this.dataGridViewStatistical.TabIndex = 7;
+            // 
+            // kryptonLabelFrom
+            // 
+            this.kryptonLabelFrom.Location = new System.Drawing.Point(20, 28);
+            this.kryptonLabelFrom.Name = "kryptonLabelFrom";
+            this.kryptonLabelFrom.Size = new System.Drawing.Size(39, 20);
+            this.kryptonLabelFrom.TabIndex = 8;
+            this.kryptonLabelFrom.Values.Text = "From";
+            // 
+            // kryptonLabelTo
+            // 
+            this.kryptonLabelTo.Location = new System.Drawing.Point(190, 28);
+            this.kryptonLabelTo.Name = "kryptonLabelTo";
+            this.kryptonLabelTo.Size = new System.Drawing.Size(24, 20);
+            this.kryptonLabelTo.TabIndex = 9;
+            this.kryptonLabelTo.Values.Text = "To";
+            // 
+            // kryptonLabelPhanThongTIn
+            // 
+            this.kryptonLabelPhanThongTIn.Location = new System.Drawing.Point(20, 5);
+            this.kryptonLabelPhanThongTIn.Name = "kryptonLabelPhanThongTIn";
+            this.kryptonLabelPhanThongTIn.Size = new System.Drawing.Size(91, 20);
+            this.kryptonLabelPhanThongTIn.TabIndex = 7;
+            this.kryptonLabelPhanThongTIn.Values.Text = "Phần thông tin";
+            // 
+            // kryptonLabelTongTien
+            // 
+            this.kryptonLabelTongTien.Location = new System.Drawing.Point(60, 44);
+            this.kryptonLabelTongTien.Name = "kryptonLabelTongTien";
+            this.kryptonLabelTongTien.Size = new System.Drawing.Size(65, 20);
+            this.kryptonLabelTongTien.TabIndex = 8;
+            this.kryptonLabelTongTien.Values.Text = "Tổng tiền:";
+            // 
+            // kryptonLabelTongLanOrder
+            // 
+            this.kryptonLabelTongLanOrder.Location = new System.Drawing.Point(355, 44);
+            this.kryptonLabelTongLanOrder.Name = "kryptonLabelTongLanOrder";
+            this.kryptonLabelTongLanOrder.Size = new System.Drawing.Size(94, 20);
+            this.kryptonLabelTongLanOrder.TabIndex = 9;
+            this.kryptonLabelTongLanOrder.Values.Text = "Tổng lần order:";
+            // 
+            // kryptonLabelTimKiem
+            // 
+            this.kryptonLabelTimKiem.Location = new System.Drawing.Point(63, 99);
+            this.kryptonLabelTimKiem.Name = "kryptonLabelTimKiem";
+            this.kryptonLabelTimKiem.Size = new System.Drawing.Size(60, 20);
+            this.kryptonLabelTimKiem.TabIndex = 10;
+            this.kryptonLabelTimKiem.Values.Text = "Tìm kiếm";
             // 
             // FormStatistical
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoScroll = true;
             this.AutoSize = true;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(849, 643);
+            this.ClientSize = new System.Drawing.Size(637, 522);
+            this.Controls.Add(this.dataGridViewStatistical);
+            this.Controls.Add(this.panelHienThiThongTIn);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.dataGridView1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "FormStatistical";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.Load += new System.EventHandler(this.FormStatistical_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel3.ResumeLayout(false);
+            this.panelHienThiThongTIn.ResumeLayout(false);
+            this.panelHienThiThongTIn.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStatistical)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
-
-        private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button btnReset;
         private System.Windows.Forms.Button btnExcel;
-        private System.Windows.Forms.DateTimePicker dateTimePicker2;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker dateTimePickerTo;
+        private System.Windows.Forms.DateTimePicker dateTimePickerFrom;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.Button btnLast;
         private System.Windows.Forms.Button btPageNumber;
         private System.Windows.Forms.Button btnPreviours;
         private System.Windows.Forms.Button btnFirst;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
+        private System.Windows.Forms.Panel panelHienThiThongTIn;
+        private System.Windows.Forms.TextBox textBoxTongOrder;
+        private System.Windows.Forms.TextBox textBoxTongTien;
+        private System.Windows.Forms.TextBox textBoxTimKiem;
+        private System.Windows.Forms.DataGridView dataGridViewStatistical;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelFrom;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelTo;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelTimKiem;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelTongLanOrder;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelTongTien;
+        private ComponentFactory.Krypton.Toolkit.KryptonLabel kryptonLabelPhanThongTIn;
     }
 }

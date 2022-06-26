@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "Trash";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@model IEnumerable<ShopThoiTrang.Models.Category>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Index</h2>
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-md-6">
+                <strong class="text-uppercase text-danger">Thùng rác loại sản phẩm</strong>
+            </div>
+            <div class="col-md-6 text-end">
+                <a href="@Url.Action("Index", "Categories")" class="btn btn-sm btn-success">
+                    <i class="fa-solid fa-arrow-left"></i> Quay về danh sách
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered table-hover">
+            <thead>
+                <tr>
+                    <th style="width:20px" class="text-center">#</th>
+                    <th style="width:20px" class="text-center">@Html.DisplayNameFor(model => model.Id)</th>
+                    <th class="text-center">@Html.DisplayNameFor(model => model.Name)</th>
+                    <th class="text-center">@Html.DisplayNameFor(model => model.Slug)</th>
+                    <th style="width:180px" class="text-center">@Html.DisplayNameFor(model => model.Orders)</th>
+                    <th style="width:250px" class="text-center">Chức năng</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td class="text-center">
+                            <input name="checkId" type="checkbox" />
+                        </td>
+                        <td class="text-center">@Html.DisplayFor(modelItem => item.Id)</td>
+
+                        <td>@Html.DisplayFor(modelItem => item.Name)</td>
+
+                        <td>
+                            <a href="~/loai-san-pham/@item.Slug">
+                                @Html.DisplayFor(modelItem => item.Slug)
+                            </a>
+                        </td>
+
+                        <td>@Html.DisplayFor(modelItem => item.Orders)</td>
+
+                        <td>
+                            <a href="@Url.Action("ReTrash", "Categories", new { @id=item.Id})" class="btn btn-sm btn-warning">
+                                <i class="fa-solid fa-trash-restore-alt"></i>
+                            </a>
+                            <a href="@Url.Action("Delete", "Categories", new { @id=item.Id})" class="btn btn-sm btn-danger">
+                                <i class="fa-solid fa-trash-alt"></i>
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+

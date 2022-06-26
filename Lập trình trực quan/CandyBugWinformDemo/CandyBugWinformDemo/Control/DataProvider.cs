@@ -18,7 +18,7 @@ namespace CandyBugWinformDemo.Control
         private string con = "Data Source=nhomsix.database.windows.net;Initial Catalog=QLBK;User ID=nhom6;Password=123456789aA";
 
         // get set Instence
-        public static DataProvider Instence 
+        public static DataProvider Instance 
         {
             get 
             {
