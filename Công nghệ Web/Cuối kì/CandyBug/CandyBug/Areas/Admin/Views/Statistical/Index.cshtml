@@ -1,0 +1,55 @@
+﻿@model List<CandyBug.Areas.Admin.Model.EF.Statistical>
+
+@{
+    ViewBag.Title = "Thống kê theo đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div id="tieuDeBonChuTroLen">
+    <h2>Thống kê theo đơn hàng</h2>
+</div>
+<hr />
+<p id="buttonLink">
+    <button class="btn btn-primary">@Html.ActionLink("Thống kê theo ngày", "LocTheoNgay")</button>
+</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maHoaDon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayTao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tongTien)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().trangThai)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.maHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tongTien)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.trangThai)
+            </td>
+            <td>
+                <div id="buttonLink">
+                    <button class="btn btn-info">@Html.ActionLink("Details", "Detail", new { @id = item.maHoaDon })</button>
+                </div>
+            </td>
+        </tr>
+    }
+</table>

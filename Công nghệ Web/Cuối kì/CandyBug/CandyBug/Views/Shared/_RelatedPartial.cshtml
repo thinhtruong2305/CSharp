@@ -1,0 +1,29 @@
+﻿@using CandyBug.Models
+@model IEnumerable<Product>
+@foreach (var item in Model)
+{
+        <div class="single-product">
+            <div class="product-f-image">
+                <img src=@Url.Content("~/Content/Client/img/" + item.Image) style="width: 227px; height: 210px " alt="">
+                <div class="product-hover">
+                    <a href=@Url.Action("AddItem","Cart",new {@Id = item.Id, @strUrl = Request.Url.ToString() }) class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
+                    @Html.ActionLink("See details", "SingleProduct", "Product", new { @Id = item.Id }, new { @class = "view-details-link" })
+                </div>
+            </div>
+
+            <h2><a href="">@item.Name</a></h2>
+
+            @if (item.Discount != 0)
+            {
+                <div class="product-sidebar-price">
+                    <ins>@(item.Price - item.Price * item.Discount / 100)</ins> <del>@item.Price</del>
+                </div>
+            }
+            else
+            {
+                <div class="product-sidebar-price">
+                    <ins>@item.Price</ins>
+                </div>
+            }
+        </div>
+}

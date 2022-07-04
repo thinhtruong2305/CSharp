@@ -1,0 +1,80 @@
+﻿@using CaptchaMvc
+@using CaptchaMvc.HtmlHelpers
+@using CandyBug.Models
+@model Account
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<body class="bg-gradient-primary">
+
+    <div class="container">
+
+        <div class="card o-hidden border-0 shadow-lg my-5">
+            <div class="card-body p-0">
+                <!-- Nested Row within Card Body -->
+                <div class="row">
+                    <!--Chỗ để ảnh-->
+                    <img class="col-lg-6 d-none d-lg-block bg-login-image" src="~/Content/Client/img/CandyBug.gif">
+                    <div class="col-lg-6">
+                        <div class="p-5">
+                            <div class="text-center">
+                                <h1 class="h4 text-gray-900 mb-4">Tạo tài khoản!</h1>
+                            </div>
+                            <div class="text-center">
+                                <span style="color:forestgreen;font-size: 20px">@ViewBag.Success</span>
+                            </div>
+                            @using (Html.BeginForm())
+                            {
+                                @Html.AntiForgeryToken()
+                                <hr />
+                                @Html.ValidationSummary(true)
+                                <div class="form-group row">
+                                    <div class="col-sm-6 mb-3 mb-sm-0">
+                                        @Html.ValidationMessageFor(model => model.UserName, "", new { @style = "color:red;font-size: 12px" })
+                                        <span style="color:red;font-size: 12px">@ViewBag.TaiKhoanExits</span>
+                                        @Html.TextBoxFor(model => model.UserName, new { @class = "form-control form-control-user", @id = "exampleFirstName", @placeholder = "Tên tài khoản" })
+                                    </div>
+                                    <div class="col-sm-6">
+                                        @Html.ValidationMessageFor(model => model.DisplayName, "", new { @style = "color:red;font-size: 13px" })
+                                        @Html.TextBoxFor(model => model.DisplayName, new { @class = "form-control form-control-user", @id = "exampleLastName", @placeholder = "Họ và Tên" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    @Html.ValidationMessageFor(model => model.Email, "", new { @style = "color:red;font-size: 13px" })
+                                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control form-control-user", @id = "exampleInputEmail", @placeholder = "Địa chỉ Email" })
+                                </div>
+                                <div class="form-group">
+                                    @Html.ValidationMessageFor(model => model.SDT, "", new { @style = "color:red;font-size: 13px" })
+                                    @Html.TextBoxFor(model => model.SDT, new { @class = "form-control form-control-user", @id = "exampleInputEmail", @placeholder = "Số điện thoại" })
+                                </div>
+                                @Html.ValidationMessageFor(model => model.PassWord, "", new { @style = "color:red;font-size: 13px" })
+                                <div class="form-group row">
+                                    <div class="col-sm-6 mb-3 mb-sm-0">
+                                        @Html.PasswordFor(model => model.PassWord, new { @class = "form-control form-control-user", @id = "exampleInputPassword", @placeholder = "Mật khẩu" })
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <span style="color:red;">@ViewBag.PassWordAgain</span>
+                                        @Html.Password("PassWordAgain", "", new { @class = "form-control form-control-user", @id = "exampleRepeatPassword", @placeholder = "Nhập lại mật khẩu" })
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <span style="color:red;font-size: 13px">@ViewBag.Message</span>
+                                    @Html.Captcha("Try Another", "Vui lòng nhập mã Captcha", 5, "Is required field", true)
+                                </div>
+                                <input value="Đăng kí tài khoản" type="submit" class="btn btn-primary btn-user btn-block">
+                            }
+                            <hr>
+                            <div class="text-center">
+                                <a class="small" href="forgot-password.html">Quên mật khẩu?</a>
+                            </div>
+                            <div class="text-center">
+                                @Html.ActionLink("Bạn đã có tài khoản? Đăng nhập", "Login", "Home", "", new { @class = "small" })
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

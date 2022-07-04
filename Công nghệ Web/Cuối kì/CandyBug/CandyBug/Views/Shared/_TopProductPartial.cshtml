@@ -1,0 +1,20 @@
+﻿@using CandyBug.Models
+@model IEnumerable<Product>
+@foreach (var item in Model)
+{
+    <div class="single-wid-product">
+        <a href="single-product.html"><img src= @Url.Content("~/Content/Client/img/" + item.Image) alt="" class="product-thumb"></a>
+        <h2>@Html.ActionLink(item.Name, "SingleProduct", "Product", new { @Id = item.Id }, new { })</h2>
+        <div class="product-wid-rating">
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+            <i class="fa fa-star"></i>
+        </div>
+        <div class="product-wid-price">
+            <ins>@(item.Price - item.Price * item.Discount/100) </ins>
+        </div>
+    </div>
+
+}
