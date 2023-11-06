@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n0e9nWc7UUjt91VHaBnsrUlW2Arb6UhjKl0/C1g2tkABVVXqJ0yT6KfYku1j3fcPDtMVOITbJ4osjprKoFYu7A==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_SoSanhLogicIfSwitch\\CS_SoSanhLogicIfSwitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

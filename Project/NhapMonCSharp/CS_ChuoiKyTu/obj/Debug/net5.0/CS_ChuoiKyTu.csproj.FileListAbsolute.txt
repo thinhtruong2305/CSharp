@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\bin\Debug\net5.0\CS_ChuoiKyTu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\refint\CS_ChuoiKyTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\CS_ChuoiKyTu.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ChuoiKyTu\obj\Debug\net5.0\ref\CS_ChuoiKyTu.dll

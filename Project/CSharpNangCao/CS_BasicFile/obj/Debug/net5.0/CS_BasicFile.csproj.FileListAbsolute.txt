@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\bin\Debug\net5.0\CS_BasicFile.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\refint\CS_BasicFile.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\CS_BasicFile.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_BasicFile\obj\Debug\net5.0\ref\CS_BasicFile.dll

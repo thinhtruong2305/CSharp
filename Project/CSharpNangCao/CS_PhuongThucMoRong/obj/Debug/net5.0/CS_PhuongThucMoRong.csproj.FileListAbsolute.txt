@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\bin\Debug\net5.0\CS_PhuongThucMoRong.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\refint\CS_PhuongThucMoRong.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\CS_PhuongThucMoRong.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_PhuongThucMoRong\obj\Debug\net5.0\ref\CS_PhuongThucMoRong.dll

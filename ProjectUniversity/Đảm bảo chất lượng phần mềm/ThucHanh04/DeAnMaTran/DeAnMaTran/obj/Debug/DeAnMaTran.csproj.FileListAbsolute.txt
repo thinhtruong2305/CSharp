@@ -1,0 +1,17 @@
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\bin\Debug\DeAnMaTran.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\bin\Debug\DeAnMaTran.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\bin\Debug\DeAnMaTran.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.FormDeAnMaTran.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.FormMaTranCap2.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.FormMaTranCap3.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.FormMaTranCap4.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.UserControlMaTranCap2.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.UserControlMaTranCap3.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.UserControlMaTranCap4.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DeAnMaTran\DeAnMaTran\obj\Debug\DeAnMaTran.FormAbout.resources

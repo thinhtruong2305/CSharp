@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrucQuan02", "TrucQuan02\TrucQuan02.csproj", "{DFC62A1A-BCDA-4A2D-A84E-AFF7A9FD872F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC62A1A-BCDA-4A2D-A84E-AFF7A9FD872F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC62A1A-BCDA-4A2D-A84E-AFF7A9FD872F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC62A1A-BCDA-4A2D-A84E-AFF7A9FD872F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC62A1A-BCDA-4A2D-A84E-AFF7A9FD872F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D02C52-C0C2-4BBA-99CC-BEE583F8131F}
+	EndGlobalSection
+EndGlobal

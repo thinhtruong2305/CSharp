@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b09pny3jvqbmI/xvvgBgI8CfyG/ZT6E8I3CN7IWWsnRHWSrwsHW/QTs1a1gwhxJ7uUx/++Ykv/02nw9tY9lrYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_KeThua\\CS_KeThua.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

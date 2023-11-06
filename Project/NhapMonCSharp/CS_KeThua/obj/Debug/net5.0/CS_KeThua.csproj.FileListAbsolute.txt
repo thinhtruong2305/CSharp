@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\bin\Debug\net5.0\CS_KeThua.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\refint\CS_KeThua.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\CS_KeThua.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_KeThua\obj\Debug\net5.0\ref\CS_KeThua.dll

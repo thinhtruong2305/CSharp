@@ -1,0 +1,11 @@
+Exists(path)	        Kiểm tra xem thư mục có tồn tại (true) hay không (false)
+
+CreateDirectory(path)	Tạo thư mục, trả về đối tượng System.IO.DirectoryInfo chứa thông tin thư mục.
+
+Delete(path)	        Xóa thư mục.
+
+GetFiles(path)	        Lấy các file trong thư mục.
+
+GetDirectories(path)	Lấy các thư mục trong thư mục.
+
+Move(src, des)	        Di chuyển thư mục.

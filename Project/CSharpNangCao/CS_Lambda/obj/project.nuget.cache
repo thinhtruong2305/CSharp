@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eieZbN7I3xku7m8mL6+f6YkgQnXoYufppKYq5qwaRiT52xtUh1wBDeh4WshbF2p3n4mj1b4elAhx9vzCjBe0hA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\CSharpNangCao\\CS_Lambda\\CS_Lambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

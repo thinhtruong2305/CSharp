@@ -1,0 +1,12 @@
+mode kiểu liệt kê FileMode, nó cho biết bạn muốn mở file như thế nào, như:
+FileMode.CreateNew      tạo file mới
+
+FileMode.Create         tạo mới, nếu file đang có bị ghi đè
+
+FileMode.Open           mở file đang tồn tại
+
+FileMode.OpenOrCreate   mở file đang tồn tại, tạo mới nếu không có
+
+FileMode.Truncate       mở file đang tồn tại và làm rỗng file
+
+FileMode.Append         mở file đang tồn tại và tới cuối file, hoặc tạo mới

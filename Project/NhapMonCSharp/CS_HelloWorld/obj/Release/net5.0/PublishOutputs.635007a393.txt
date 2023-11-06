@@ -1,0 +1,5 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Release\net5.0\publish\CS_HelloWorld.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Release\net5.0\publish\CS_HelloWorld.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Release\net5.0\publish\CS_HelloWorld.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Release\net5.0\publish\CS_HelloWorld.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Release\net5.0\publish\CS_HelloWorld.pdb

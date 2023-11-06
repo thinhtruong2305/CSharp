@@ -1,0 +1,15 @@
+﻿@model IEnumerable<OrganizationWeb.Models.Student>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@*<label>Tổng số học sinh: </label> @ViewBag.TotalStudents*@
+@foreach (var std in ViewData["students"] as IList<OrganizationWeb.Models.Student>)
+{
+    <li>
+        @std.studentName;
+    </li>
+}
+

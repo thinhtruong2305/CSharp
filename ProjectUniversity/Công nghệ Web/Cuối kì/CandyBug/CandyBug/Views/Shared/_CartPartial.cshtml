@@ -1,0 +1,12 @@
+﻿@using CandyBug.Models
+@if (Session["Account"] != null)
+{
+    Account account = (Account)Session["Account"];
+    <div class="col-sm-6">
+        <div class="shopping-item">
+            <a href=@Url.Action("Index","Cart")>Cart - <span class="cart-amunt">@ViewBag.TongTien.ToString("#,##") </span> <i class="fa fa-shopping-cart"></i> <span class="product-count">@ViewBag.TongSL</span></a>
+        </div>
+    </div>
+}
+
+

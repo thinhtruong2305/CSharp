@@ -1,0 +1,49 @@
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe.config
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.Form1.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\C#\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe.config
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.FromTestToanHoc.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CopyComplete
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHang02\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe.config
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.FromTestToanHoc.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CopyComplete
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\TestToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.dll
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\bin\Debug\ToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.FromTestToanHoc.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.csproj.CopyComplete
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TestToanHoc\TestToanHoc\obj\Debug\TestToanHoc.pdb

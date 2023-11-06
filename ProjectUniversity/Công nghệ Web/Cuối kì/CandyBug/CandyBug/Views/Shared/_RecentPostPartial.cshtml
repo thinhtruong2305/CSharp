@@ -1,0 +1,11 @@
+﻿@using CandyBug.Models
+@model IEnumerable<Product>
+<div class="single-sidebar">
+    <h2 class="sidebar-title">Recent Posts</h2>
+    <ul>
+        @foreach (var item in Model)
+        {
+        <li> @Html.ActionLink(item.Name, "SingleProduct", "Product", new { @Id = item.Id }, new { })</li>
+        }
+        </ul>
+</div>

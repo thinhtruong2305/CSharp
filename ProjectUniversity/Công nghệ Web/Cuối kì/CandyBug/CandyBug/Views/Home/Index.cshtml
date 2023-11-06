@@ -1,0 +1,149 @@
+﻿@using CandyBug.Models
+@{
+    ViewBag.Title = "Index";
+}
+<div class="slider-area">
+    <!-- Slider -->
+    <div class="block-slider block-slider4">
+        <ul class="" id="bxslider-home4">
+            <li>
+                <img src="~/Content/Client/img/KitKat-hero-banner.png" alt="Slide">
+                <div class="caption-group">
+                    <h2 class="caption title">
+                        KitKat <span class="primary">Dessert <strong>Delight</strong></span>
+                    </h2>
+                    <h4 class="caption subtitle">truffle</h4>
+                    <a class="caption button-radius" href=@Url.Action("ShopePage","Product")><span class="icon"></span>Shop now</a>
+                </div>
+            </li>
+            <li>
+                <img src="~/Content/Client/img/chupachups-banner.png" alt="Slide">
+                <div class="caption-group">
+                    <h2 class="caption title">
+                        by two get one <span class="primary">20% <strong>off</strong></span>
+                    </h2>
+                    <h4 class="caption subtitle">Chupa Chups.*</h4>
+                    <a class="caption button-radius" href=Url.Action("ShopePage","Product")><span class="icon"></span>Shop now</a>
+                </div>
+            </li>
+            <li>
+                <img src="~/Content/Client/img/laysbanner.png" alt="Slide">
+                <div class="caption-group">
+                    <h2 class="caption title">
+                        Snack <span class="primary">Lays </span>
+                    </h2>
+                    <h4 class="caption subtitle">Select favor</h4>
+                    <a class="caption button-radius" href=Url.Action("ShopePage","Product")><span class="icon"></span>Shop now</a>
+                </div>
+            </li>
+            <li>
+                <img src="~/Content/Client/img/chrismas-banner.png" alt="Slide">
+                <div class="caption-group">
+                    <h2 class="caption title">
+                        Christmas <span class="primary">edition </span>
+                    </h2>
+                    <h4 class="caption subtitle">Cookies</h4>
+                    <a class="caption button-radius" href=Url.Action("ShopePage","Product")><span class="icon"></span>Shop now</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <!-- ./Slider -->
+</div> <!-- End slider area -->
+
+<div class="promo-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3 col-sm-6">
+                <div class="single-promo promo1">
+                    <i class="fa fa-refresh"></i>
+                    <p>Fresh Products</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-promo promo2">
+                    <i class="fa fa-truck"></i>
+                    <p>Free shipping</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-promo promo3">
+                    <i class="fa fa-lock"></i>
+                    <p>Secure payments</p>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single-promo promo4">
+                    <i class="fa fa-gift"></i>
+                    <p>New products</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- End promo area -->
+
+<div class="maincontent-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="latest-product">
+                    <h2 class="section-title">Last Sell</h2>
+                    @{ IEnumerable<Product> listProduct = (IEnumerable<Product>)@ViewBag.Listlast;}
+                    @Html.Partial("~/Views/Shared/_ProductPartial.cshtml", listProduct)
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- End main content area -->
+
+<div class="brands-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="brand-wrapper">
+                    <div class="brand-list">
+                        @foreach (var item in (IEnumerable<Producer>)@ViewBag.Listbrand)
+                        {
+                            <img src= @Url.Content("~/Content/Client/img/" + item.Logo) style="width: 210px; height: 210px" alt="">
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- End brands area -->
+
+<div class="product-widget-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="single-product-widget">
+                    <h2 class="product-wid-title">Top Sellers</h2>
+                    <a href=@Url.Action("ShopePage","Product") class="wid-view-more">View All</a>
+                    @{ IEnumerable<Product> listSell = (IEnumerable<Product>)@ViewBag.Listtopsell; }
+                   @Html.Partial("~/Views/Shared/_TopProductPartial.cshtml",listSell.Take(3))
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="single-product-widget">
+                    <h2 class="product-wid-title">Top View</h2>
+                    <a href=@Url.Action("ShopePage","Product") class="wid-view-more">View All</a>
+                    @{ IEnumerable<Product> listView = (IEnumerable<Product>)@ViewBag.Listview; }
+                    @Html.Partial("~/Views/Shared/_TopProductPartial.cshtml", listView.Take(3))
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="single-product-widget">
+                    <h2 class="product-wid-title">Top New</h2>
+                    <a href=@Url.Action("ShopePage","Product") class="wid-view-more">View All</a>
+                    @{ IEnumerable<Product> listNew = (IEnumerable<Product>)@ViewBag.Listnew; }
+                    @Html.Partial("~/Views/Shared/_TopProductPartial.cshtml", listNew.Take(3))
+                </div>
+            </div>
+        </div>
+    </div>
+</div> <!-- End product widget area -->

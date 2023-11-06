@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\bin\Debug\net5.0\CS_DaHinhInterfaceAbstract.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\refint\CS_DaHinhInterfaceAbstract.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\CS_DaHinhInterfaceAbstract.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_DaHinhInterfaceAbstract\obj\Debug\net5.0\ref\CS_DaHinhInterfaceAbstract.dll

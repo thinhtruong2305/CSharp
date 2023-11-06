@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\bin\Debug\net5.0\CS_VongLap.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\refint\CS_VongLap.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\CS_VongLap.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_VongLap\obj\Debug\net5.0\ref\CS_VongLap.dll

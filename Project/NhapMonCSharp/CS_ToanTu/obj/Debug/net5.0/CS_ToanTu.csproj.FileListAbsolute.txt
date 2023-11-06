@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\bin\Debug\net5.0\CS_ToanTu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\refint\CS_ToanTu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\CS_ToanTu.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ToanTu\obj\Debug\net5.0\ref\CS_ToanTu.dll

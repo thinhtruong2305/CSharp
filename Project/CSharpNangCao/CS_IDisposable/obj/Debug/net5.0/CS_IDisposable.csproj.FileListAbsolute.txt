@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\bin\Debug\net5.0\CS_IDisposable.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\refint\CS_IDisposable.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\CS_IDisposable.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_IDisposable\obj\Debug\net5.0\ref\CS_IDisposable.dll

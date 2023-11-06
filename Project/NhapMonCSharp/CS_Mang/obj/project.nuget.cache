@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "02jJswokmd7EADCfZ1XDqRaCFxEPbpWCrkD0eGai76ysIdmAK4zOS9M1tAGkUp8xv6X2uF4gBPNPhUBkiXWjvg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_Mang\\CS_Mang.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

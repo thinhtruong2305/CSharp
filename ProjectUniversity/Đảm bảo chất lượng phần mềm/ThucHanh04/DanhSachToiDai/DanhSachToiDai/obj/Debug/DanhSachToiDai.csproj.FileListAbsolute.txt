@@ -1,0 +1,10 @@
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\bin\Debug\DanhSachToiDai.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\bin\Debug\DanhSachToiDai.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\bin\Debug\DanhSachToiDai.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh04\DanhSachToiDai\DanhSachToiDai\obj\Debug\DanhSachToiDai.FormDanhSachToiDai.resources

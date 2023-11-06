@@ -1,0 +1,9 @@
+File.Create(filename)           tạo file
+
+File.Delete(filename)           xóa file
+
+File.Exists(filename)           kiểm tra file có tồn tại
+
+File.Copy(path_src, path_des)   copy file
+
+File.Move(path_src, path_des)   di chuyển file

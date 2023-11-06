@@ -1,0 +1,109 @@
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe.config
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.pdb
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.AssemblyReference.cache
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDock.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.Properties.Resources.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.GenerateResource.cache
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.CoreCompileInputs.cache
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.exe
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.pdb
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormPasswordChar.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.GroupBoxAndPanel.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormCheckBoxAndRadioButton.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.exe.config
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormRadioButtonAndMessengerBox.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormMẹnu.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormListBoxAndCheckListBox.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormTab.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.ChildForm.FormChild.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormChildForm.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormFlowPanelLayout.resources
+D:\Users\Public\OneDrive\Tài liệu\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDBHocSinh.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.exe.config
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.ChildForm.FormChild.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormCheckBoxAndRadioButton.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormChildForm.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDBHocSinh.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDiemSV.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDock.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormFlowPanelLayout.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormListBoxAndCheckListBox.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormMẹnu.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormPasswordChar.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormRadioButtonAndMessengerBox.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormTab.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.GroupBoxAndPanel.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.exe
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.pdb
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe.config
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.pdb
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.xml
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.xml
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormMayTinhBoTui.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormXuLyChuoi.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDanhSachLop.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormHang.FormChinh.resources
+C:\Users\ADMIN\OneDrive\Document\VSDEMO\WinForm\Project học\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.ThanhThaoCSharp.FormMDI.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe.config
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\WinformCoBan.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.Authentication.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Newtonsoft.Json.dll
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.ChildForm.FormChild.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormCheckBoxAndRadioButton.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDanhSachLop.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDBHocSinh.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDiemSV.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormDock.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormFlowPanelLayout.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormHang.FormChinh.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormListBoxAndCheckListBox.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormMayTinhBoTui.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormMẹnu.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormPasswordChar.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormRadioButtonAndMessengerBox.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormTab.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormXuLyChuoi.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.GroupBoxAndPanel.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.ThanhThaoCSharp.FormMDI.resources
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.csproj.CopyComplete
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.exe
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.pdb
+D:\Users\admin\Documents\DocumentStudy\Đại học\Bài thực hành\Code\CSharp\Lập trình trực quan\WinformCoBan\WinformCoBan\obj\Debug\WinformCoBan.FormParent.resources

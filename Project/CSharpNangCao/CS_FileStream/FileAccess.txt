@@ -1,0 +1,6 @@
+access kiểu liệt kê FileAccess, cho biết muốn truy cập file như thế nào
+FileAccess.Read         chỉ đọc
+
+FileAccess.Write        chỉ ghi
+
+FileAccess.ReadWrite    đọc và ghi

@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\bin\Debug\net5.0\CS_NameSpacePartialNested.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\refint\CS_NameSpacePartialNested.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\CS_NameSpacePartialNested.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_NameSpacePartialNested\obj\Debug\net5.0\ref\CS_NameSpacePartialNested.dll

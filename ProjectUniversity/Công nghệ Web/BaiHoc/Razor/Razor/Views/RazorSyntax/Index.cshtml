@@ -1,0 +1,113 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1>Cú pháp Razor</h1>
+
+@*Các cú pháp razor in ra màn hình cơ bản*@
+@*trong dấu @ có thể code C# hoặc VB*@
+
+<h2>@DateTime.Now.ToShortDateString()</h2>
+
+@{ 
+    var date = DateTime.Now.ToShortDateString();
+    var message = "Hello World!!";
+}
+
+<h2>@message</h2>
+<h3>Today is: @date</h3>
+
+@{ 
+    var day = DateTime.Now.ToShortDateString();
+    string mail = "Hello world";
+    @:Today is: @day <br/>
+    @mail <br/>
+}
+
+@{ 
+    var now = DateTime.Now.ToShortDateString();
+    String alert = "Hello world";
+    <text>Today is:</text> @now<br/>
+    @alert <br/>
+
+
+} 
+
+@*If else razor*@
+@if (DateTime.IsLeapYear(DateTime.Now.Year))
+{
+    @DateTime.Now.Year @:is leap year <br/>
+}
+else
+{
+    @DateTime.Now.Year @:is not leap year <br />
+}
+
+@*Vòng lặp*@
+@for(int i = 0; i < 6; i++)
+{
+    @i.ToString()<br/>
+}
+
+@*thẻ Form*@
+<form action="~/RazorSyntax/Index" id="form1" method="post" name="form1" onsubmit="return IsCheck()">
+
+</form>
+
+@using (Html.BeginForm("Index", "RazorSyntax", FormMethod.Post, new { @name="form2", @id="form2", @onsubmit="return IsCheck()" }))
+{
+    //thẻ textbox
+    <input id="textbox1" name="textboxname" type="text" value="textboxvalue"/><br />
+    @Html.TextBox("textbox2", "textboxvalue", new { @id="textbox2"})<br />
+
+    //thẻ textarea
+    <textarea cols="20" id="text-area1" name="text-area1" rows="5"></textarea><br />
+    @Html.TextArea("text-area2", "text-area", new { @rows="5", @cols="20"})<br />
+
+    //Thẻ password
+    <input id="password1" name="password1" type="password" value="password"/><br />
+    @Html.Password("password2", "password", new { @id="password2"})<br />
+
+    //Thẻ link
+    <a class="btn-danger" href="~/Home/Index?thamso=thamso" id="link1">home</a><br />
+    @Html.ActionLink("home", "Index", "Home", new { @thamso="thamso"}, new { @id="link2", @class="btn-danger"})<br />
+    @Html.Action("Index", "Home", new { @thamso="thamso"})<br />
+
+    //thẻ Hidden
+    <input id="hidden1" name="hidden1" type="hidden" value="hidden1"/><br />
+    @Html.Hidden("hidden2", "hidden2", new { @id="hidden2"})<br />
+
+    //Thẻ radiobutton
+    <input checked="checked" id="GioiTinh1" name="gioiTinhNam" type="radio" value="0"/>
+    <label for="GioiTinh1">Nam</label>
+    <input id="GioiTinh1" name="gioiTinhNu" type="radio" value="1"/>
+    <label for="GioiTinh1">Nữ</label> <br />
+
+    @Html.RadioButton("GioiTinh2",0,true)<span>Nam</span>
+    @Html.RadioButton("GioiTinh2",1,false)<span>Nữ</span><br />
+
+    //Thẻ checkbox
+    <input checked="checked" id="TheThao1" name="TheThao1" type="checkbox" value="Thể thao"/>
+    <label for="TheThao">Thể thao</label>
+    <input checked="checked" id="DuLich1" name="DuLich1" type="checkbox" value="Du lịch"/>
+    <label for="DuLich">Du lịch</label><br />
+
+    @Html.CheckBox("TheThao2", true, new { @value="Thể thao"})<span>Thể thao</span>
+    @Html.CheckBox("DuLich2", true, new { @value="Du lịch"})<span>Du lịch</span><br />
+
+    //Thẻ drop down list
+    List<String> tinhTP = new List<string>() { "Hồ Chí Minh", "Hà Nội" };
+    <select id="ddl1" name="ddl1">
+        <option value="1">Hồ Chí Minh</option>
+        <option value="2">Hà Nội</option>
+    </select><br />
+    @Html.DropDownList("ddl2", new SelectList(tinhTP), new { @id="ddl2"})<br />
+
+    //Thẻ listbox
+    <select id="lb1" multiple="multiple" name="lb1">
+        <option value="1">Hồ Chí Minh</option>
+        <option value="2">Hà Nội</option>
+    </select><br />
+    @Html.ListBox("lb2", new SelectList(tinhTP), new { @id="lb2"})<br />
+}

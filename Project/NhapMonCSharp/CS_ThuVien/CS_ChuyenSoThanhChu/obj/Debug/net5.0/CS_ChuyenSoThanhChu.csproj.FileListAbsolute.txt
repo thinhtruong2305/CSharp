@@ -1,0 +1,12 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\bin\Debug\net5.0\CS_ChuyenSoThanhChu.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\bin\Debug\net5.0\CS_ChuyenSoThanhChu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\bin\Debug\net5.0\CS_ChuyenSoThanhChu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\refint\CS_ChuyenSoThanhChu.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\CS_ChuyenSoThanhChu.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_ThuVien\CS_ChuyenSoThanhChu\obj\Debug\net5.0\ref\CS_ChuyenSoThanhChu.dll

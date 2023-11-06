@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\bin\Debug\net5.0\CS_Lambda.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\refint\CS_Lambda.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\CS_Lambda.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Lambda\obj\Debug\net5.0\ref\CS_Lambda.dll

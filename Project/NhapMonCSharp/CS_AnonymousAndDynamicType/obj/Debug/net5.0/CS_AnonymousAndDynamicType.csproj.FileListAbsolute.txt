@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\bin\Debug\net5.0\CS_AnonymousAndDynamicType.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\refint\CS_AnonymousAndDynamicType.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\CS_AnonymousAndDynamicType.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_AnonymousAndDynamicType\obj\Debug\net5.0\ref\CS_AnonymousAndDynamicType.dll

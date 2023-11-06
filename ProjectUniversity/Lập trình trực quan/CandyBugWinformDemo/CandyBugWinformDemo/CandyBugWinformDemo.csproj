@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C407BD83-B751-4D9F-8A3C-61337A6FA29A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CandyBugWinformDemo</RootNamespace>
+    <AssemblyName>CandyBugWinformDemo</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\..\..\..\..\Phần mềm bổ trợ việc học\Bản của win mới\Krypton-master\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Control\AccountDAO.cs" />
+    <Compile Include="Control\CategoryDAO.cs" />
+    <Compile Include="Control\DataProvider.cs" />
+    <Compile Include="Control\OrdersDAO.cs" />
+    <Compile Include="Control\ProductDAO.cs" />
+    <Compile Include="Object\Account.cs" />
+    <Compile Include="Object\Category.cs" />
+    <Compile Include="Object\ifOrder.cs" />
+    <Compile Include="Object\Orders.cs" />
+    <Compile Include="Object\Product.cs" />
+    <Compile Include="QLBKDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBKDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="QLBKDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QLBKDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormCategory.Designer.cs">
+      <DependentUpon>FormCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormStatistical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormStatistical.Designer.cs">
+      <DependentUpon>FormStatistical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormOrders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormOrders.Designer.cs">
+      <DependentUpon>FormOrders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormProducts.Designer.cs">
+      <DependentUpon>FormProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\FormAdmin.Designer.cs">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="UI\FormAdmin.resx">
+      <DependentUpon>FormAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormCategory.resx">
+      <DependentUpon>FormCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormProducts.resx">
+      <DependentUpon>FormProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormStatistical.resx">
+      <DependentUpon>FormStatistical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\FormOrders.resx">
+      <DependentUpon>FormOrders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\CandyBugWinformDemo.Object.ifOrder.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QLBKDataSet.xsc">
+      <DependentUpon>QLBKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLBKDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLBKDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLBKDataSet.xss">
+      <DependentUpon>QLBKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QLBKDataSet1.xsc">
+      <DependentUpon>QLBKDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="QLBKDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QLBKDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QLBKDataSet1.xss">
+      <DependentUpon>QLBKDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="picture\Biscuit\matcha and peach.jfif" />
+    <Content Include="picture\Biscuit\mini.jpg" />
+    <Content Include="picture\Biscuit\mitn.jpeg" />
+    <Content Include="picture\Biscuit\sakura.jpg" />
+    <Content Include="picture\Cakes\banana muffin.png" />
+    <Content Include="picture\Cakes\decvil%27s fudge.png" />
+    <Content Include="picture\Cakes\matcha.png" />
+    <Content Include="picture\Cakes\socola tiramisu.png" />
+    <Content Include="picture\Cakes\strawberry.png" />
+    <Content Include="picture\Candy\chocola peanut M&amp;M.png" />
+    <Content Include="picture\Candy\Chocola peanut pantry size.png" />
+    <Content Include="picture\Candy\crunchy caramel.png" />
+    <Content Include="picture\Candy\peanut butter %28egg-oeufs.jpg" />
+    <Content Include="picture\Candy\Peanut putter %28egg%29.jpeg" />
+    <Content Include="picture\Candy\salted caramel.png" />
+    <Content Include="picture\Others\CANDYBUG.png" />
+    <Content Include="picture\Others\logo.png" />
+    <Content Include="picture\Others\Market Research.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="29b02295aa8b4140badf4151f1bbde4e" Name="Diagram1">
+        <EntityTypeShape EntityType="PetshopWinformModel.Account" Width="1.5" PointX="7.625" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetshopWinformModel.Category" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetshopWinformModel.Oder" Width="1.5" PointX="4.25" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetshopWinformModel.OrderInfo" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetshopWinformModel.Product" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="PetshopWinformModel.sysdiagram" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="PetshopWinformModel.FK__Product__Quantit__2C3393D0" ManuallyRouted="false" />
+        <AssociationConnector Association="PetshopWinformModel.FK__OrderInfo__Total__32E0915F" ManuallyRouted="false" />
+        <AssociationConnector Association="PetshopWinformModel.FK__OrderInfo__IdPro__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="PetshopWinformModel.FK_Oder_Account" />
+        <EntityTypeShape EntityType="PetshopWinformModel.Customer" Width="1.5" PointX="0.875" PointY="4.5" />
+        <AssociationConnector Association="PetshopWinformModel.FK_Customer" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

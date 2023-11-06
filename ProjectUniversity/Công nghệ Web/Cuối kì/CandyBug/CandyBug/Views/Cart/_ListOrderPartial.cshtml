@@ -1,0 +1,23 @@
+﻿@using CandyBug.Models
+@model IEnumerable<OrderInfo>
+
+<tbody>
+    @foreach (var item in Model)
+    {
+        <tr class="cart_item">
+            <td class="product-name">
+                @item.Product.Name <strong class="product-quantity">× @item.Quantity</strong>
+            </td>
+            <td class="product-total">
+                <span class="amount">@item.Total.ToString("#,##") đ</span>
+            </td>
+        </tr>
+    }
+
+</tbody>
+<tr class="cart-subtotal">
+    <th>Cart Subtotal</th>
+    <td>
+        <span class="amount">@Model.Sum(c => c.Total).ToString("#,##") đ</span>
+    </td>
+</tr>

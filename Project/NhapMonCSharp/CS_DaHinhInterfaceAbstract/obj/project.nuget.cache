@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kIE0Jy4+Obeaun0hAiCbTTsuA3S3F5CqnsrKKZkX3I6xwfE3O3j/WWs2qNx/SbjxCyzjU61zzaTJ584ew3veTg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_DaHinhInterfaceAbstract\\CS_DaHinhInterfaceAbstract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,76 @@
+﻿@model List<CandyBug.Areas.Admin.Model.EF.DonHang>
+
+@{
+    ViewBag.Title = "Thống kê theo đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<div id="tieuDeBonChuTroXuong">
+    <h2>Danh sách đơn hàng</h2>
+</div>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maHoaDon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayTao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().trangThai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().diaChi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().ngayGiao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().soDienThoai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tenNhanVien)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.maHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayTao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.trangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.diaChi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ngayGiao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soDienThoai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tenNhanVien)
+            </td>
+            <td>
+                <div id="buttonLink" class="col-md-1">
+                    <button class="btn btn-warning">@Html.ActionLink("Edit", "Edit", new { @id = item.maHoaDon })</button>
+                </div>
+                <div id="buttonLink" class="col-md-1">
+                    <button class="btn btn-info">@Html.ActionLink("Details", "Detail", new { @id = item.maHoaDon })</button>
+                </div>
+                <div id="buttonLink" class="col-md-1">
+                    <button class="btn btn-danger">@Html.ActionLink("Delete", "Delete", new { @id = item.maHoaDon })</button>
+                </div>
+            </td>
+        </tr>
+    }
+
+</table>

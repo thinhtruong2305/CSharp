@@ -1,0 +1,10 @@
+share kiểu liệt kê FileShare, cho phép thiết lập chia sẻ truy cập file
+FileShare.None      không chia sẻ - tiến trình khác truy cập file sẽ lỗi cho đến khi tiến trình mở file đóng nó lại.
+
+FileShare.Read      cho tiến trình khác mở đọc file.
+
+FileShare.Write     cho tiến trình khác mở ghi file.
+
+FileShare.ReadWrite cho tiến trình khác mở đọc ghi file.
+
+FileShare.Delete    cho tiến trình khác xóa file.

@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\bin\Debug\net5.0\CS_HelloWorld.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\ref\CS_HelloWorld.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\CS_HelloWorld.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\ProjectHoc\CS_HelloWorld\obj\Debug\net5.0\refint\CS_HelloWorld.dll

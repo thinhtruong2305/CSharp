@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CS_PhuongThucMoRong/1.0.0": {
+        "runtime": {
+          "CS_PhuongThucMoRong.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS_PhuongThucMoRong/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

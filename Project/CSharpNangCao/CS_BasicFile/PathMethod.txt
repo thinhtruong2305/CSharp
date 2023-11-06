@@ -1,0 +1,32 @@
+Path.DirectorySeparatorChar	    Thuộc tính chứa ký tự phân cách đường dẫn thư mục (\ trên Windows, / trên *nix)
+
+Path.PathSeparator	            Thuộc tính chứa ký tự phân chia thư mục trong biến môi trường
+
+Combine	                        Kết hợp các chuỗi thành dường dẫn
+                                var path = Path.Combine("home", "ReadMe.txt"); //  "home/ReadMe.txt"
+
+ChangeExtension	                Thay đổi phần mở rộng của đường dẫn
+                                var path = Path.ChangeExtension("/home/abc/ReadMe.txt", "md"); //  "/home/abc/ReadMe.md"
+
+GetDirectoryName	            Lấy đường dẫn đến file (thư mục)
+                                var path = Path.GetDirectoryName("/home/abc/zyz/ReadMe.txt"); //  "/home/abc/zyz"
+
+GetExtension	                Lấy phần mở rộng
+                                var path = Path.GetExtension("/home/ReadMe.txt"); //  ".txt"
+
+GetFileName	                    Lấy tên file
+                                var path = Path.GetFileName("/home/abc/ReadMe.txt"); //  "ReadMe.txt"
+
+GetFileNameWithoutExtension	    Lấy tên file
+                                var path = Path.GetFileNameWithoutExtension("/home/ReadMe.txt"); //  "ReadMe"
+
+GetFullPath	                    Lấy đường dẫn đầy đủ - từ đường dẫn tương đối
+                                var path = Path.GetFullPath("ReadMe.txt");
+
+GetPathRoot	                    Lấy gốc của đường dẫn
+
+GetRandomFileName	            Tạo tên file ngẫu nhiên
+                                var path = Path.GetRandomFileName();
+
+GetTempFileName	                Tạo file duy nhất, rỗng
+                                var path = Path.GetTempFileName();

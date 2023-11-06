@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pxB4gj4t+rMQRXiDAENFUb50iRdaw8tLp57PeXq1pCMnbpdeI9XOObZin21znCJ59qmWXO/2pu8BGNtPX+6oQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\ProjectHoc\\CS_HelloWorld\\CS_HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

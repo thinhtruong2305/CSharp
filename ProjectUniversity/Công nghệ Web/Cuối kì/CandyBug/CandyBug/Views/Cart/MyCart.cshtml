@@ -1,0 +1,31 @@
+﻿@using CandyBug.Models
+@model IEnumerable<Oder>
+
+@{
+    ViewBag.Title = "MyCart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+@foreach (var item in Model) {
+<div id="order_review" style="position: relative;">
+    <table class="shop_table">
+        <thead>
+            <tr>Mã đơn : @item.Id</tr>
+            <tr>
+                <th class="product-name">Product</th>
+                <th class="product-total">Total</th>
+            </tr>
+        </thead>
+        @Html.Partial("_ListOrderPartial",item.OrderInfoes);
+        <tfoot>
+            <tr class="order-total">
+                <th>Order Total</th>
+                <td><strong><span class="amount">@item.OrderInfoes.Sum(u => u.Total).ToString("#,##") đ</span></strong> </td>
+            </tr>
+
+        </tfoot>
+    </table>
+</div>
+}
+

@@ -1,0 +1,17 @@
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\bin\Debug\TrucQuan03.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\bin\Debug\TrucQuan03.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\bin\Debug\TrucQuan03.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\bin\Debug\ToanHoc.dll
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\bin\Debug\ToanHoc.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.csproj.CopyComplete
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.FormAbout.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.FormMatPhang.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.FormTrucQuan.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.FormHePTTT.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh03\TrucQuan03\TrucQuan03\obj\Debug\TrucQuan03.FormVector3D.resources

@@ -1,0 +1,86 @@
+﻿@model List<CandyBug.Areas.Admin.Model.EF.HoaDon>
+
+@{
+    ViewBag.Title = "Thông tin chi tiết đơn hàng";
+}
+
+<div id="tieuDeBonChuTroXuong">
+    <h2>Thông tin chi tiết</h2>
+</div>
+<hr />
+<h3>Thông tin hóa đơn</h3>
+<div id="noiDungHoaDon">
+    <strong>Mã hóa đơn</strong>
+    <p>@ViewBag.HoaDon.maHoaDon</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Ngày tạo</strong>
+    <p>@ViewBag.HoaDon.ngayTao</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Trạng thái</strong>
+    <p>@ViewBag.HoaDon.trangThai</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Địa chỉ</strong>
+    <p>@ViewBag.HoaDon.diaChi</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Ngày giao</strong>
+    <p>@ViewBag.HoaDon.ngayGiao</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Số điện thoại</strong>
+    <p>@ViewBag.HoaDon.soDienThoai</p>
+</div>
+<div id="noiDungHoaDon">
+    <strong>Nhân viên</strong>
+    <p>@ViewBag.HoaDon.tenNhanVien</p>
+</div>
+<hr />
+<h3>Danh mục sản phẩm</h3>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().maHoaDon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tenSanPham)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().gia)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().soLuong)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().tongTien)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.maHoaDon)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tenSanPham)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soLuong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tongTien)
+            </td>
+        </tr>
+    }
+
+</table>
+<hr />
+<div id="buttonLink">
+    <button class="btn btn-danger">@Html.ActionLink("Quay lại", "Index", "OrderManage")</button>
+</div>

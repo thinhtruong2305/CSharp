@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydKfNV4BouOJw8bCkSFCMtKEIQgPOrnAY79MzOLNJ2CFBZe7qM5mndyPGA+z82wieT9Akv1bkGNqv375W5WJbg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_NameSpacePartialNested\\CS_NameSpacePartialNested.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

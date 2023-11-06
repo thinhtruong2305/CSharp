@@ -1,0 +1,125 @@
+﻿@using PagedList.Mvc;
+@using PagedList;
+@model PagedList.PagedList<CandyBug.Models.Product>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h2 class="m-0 font-weight-bold text-primary">Quản Lý Sản Phẩm</h2>
+
+<p>
+    @Html.ActionLink("Thêm mới", "ThemMoi")
+</p>
+
+
+<div class="container-fluid">
+
+
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().IdCategory)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().IdProducer)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Unit)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Image)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Views)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Discount)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().DateCreate)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Description)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Quantity)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.First().Name)
+                        </th>
+                        <th></th>
+                    </tr>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Category.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Producer.Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Unit)
+                            </td>
+                            <td>
+                                <div id="Image"> <img src="@Url.Content("~/Content/Client/img/"+item.Image)" width="150" height="150" /></div>
+
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Views)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Discount)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.DateCreate)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Description)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Name)
+                            </td>
+                            <td>
+
+                                @Html.ActionLink("Chỉnh Sửa", "ChinhSua", new { @Id = item.Id }) |
+                                @Html.ActionLink("Hiển Thị", "HienThi", new { @Id = item.Id }) |
+                                @Html.ActionLink("Xóa", "Xoa", new { @Id = item.Id })
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </div>
+        </div>
+    </div>
+
+</div>
+@*tao link lien ket cac trang*@
+@(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+<div class="MenuTrang">
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+</div>
+
+@*<style
+      .MenuTrang li
+     {
+    display: inLine;
+     }
+     />*@
+

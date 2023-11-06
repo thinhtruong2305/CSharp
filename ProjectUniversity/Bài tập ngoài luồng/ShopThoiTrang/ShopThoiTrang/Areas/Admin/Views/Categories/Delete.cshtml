@@ -1,0 +1,121 @@
+﻿@model ShopThoiTrang.Models.Category
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="card">
+        <div class="card-header">
+            <div class="row">
+                <div class="col-md-6">
+                    <strong class="text-uppercase text-danger">Danh sách loại sản phẩm</strong>
+                </div>
+                <div class="col-md-6 text-end">
+                    <a href="@Url.Action("Index", "Categories")" class="btn btn-sm btn-success">
+                        <i class="fa-solid fa-arrow-left"></i> Quay lại danh sách
+                    </a>
+                    <input type="submit" value="Delete" class="btn btn-sm btn-danger" />
+                </div>
+            </div>
+        </div>
+        <div class="card-body p-3">
+            <div class="alert alert-warning">
+                <strong>Thông báo</strong> Bạn có chắc muốn xóa mẫu tin này không?
+            </div>
+            <dl class="dl-horizontal">
+                <dt>
+                    @Html.DisplayNameFor(model => model.Name)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Name)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Slug)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Slug)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.ParentId)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.ParentId)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Orders)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Orders)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Metakey)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Metakey)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Metades)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Metades)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CreateBy)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CreateBy)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.CreateAt)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.CreateAt)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UpdateBy)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UpdateBy)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.UpdateAt)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.UpdateAt)
+                </dd>
+
+                <dt>
+                    @Html.DisplayNameFor(model => model.Status)
+                </dt>
+
+                <dd>
+                    @Html.DisplayFor(model => model.Status)
+                </dd>
+
+            </dl>
+        </div>
+    </div>
+}

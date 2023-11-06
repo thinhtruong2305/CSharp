@@ -1,0 +1,17 @@
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\bin\Debug\DeAnThapHaNoi.exe.config
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\bin\Debug\DeAnThapHaNoi.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\bin\Debug\DeAnThapHaNoi.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.Properties.Resources.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.csproj.GenerateResource.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.exe
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.pdb
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormDeAnThapHaNoi.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormAbout.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormThapHaNoiDonGian.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormThapHaNoiNangCao.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.UserControlBaThapHaNoi.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.UserControlThapHaNoi.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormKetQua.resources
+D:\Users\admin\Documents\DocumentStudy\DaiHoc\BaiThucHanh\Code\CSharp\Đảm bảo chất lượng phần mềm\ThucHanh05\DeAnThapHaNoi\DeAnThapHaNoi\obj\Debug\DeAnThapHaNoi.FormBaThapHaNoi.resources

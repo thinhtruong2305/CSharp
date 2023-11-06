@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\bin\Debug\net5.0\CS_Event.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\refint\CS_Event.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\CS_Event.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\CSharpNangCao\CS_Event\obj\Debug\net5.0\ref\CS_Event.dll

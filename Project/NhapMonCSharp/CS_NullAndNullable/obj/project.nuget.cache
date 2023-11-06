@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GZV09rL0z91yGhs47Au3qs9XZ4aEMLdGfNjB0CZuU4ogyma5xqJLmF20PbTocel3R7z976hiBgiXmDUn7YH/Ng==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\admin\\Documents\\DocumentStudy\\HocChuyenSau\\C#\\NhapMonCSharp\\CS_NullAndNullable\\CS_NullAndNullable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.exe
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.deps.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.runtimeconfig.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.runtimeconfig.dev.json
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\bin\Debug\net5.0\CS_StructEnum.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.csproj.AssemblyReference.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.AssemblyInfoInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.AssemblyInfo.cs
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.csproj.CoreCompileInputs.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\refint\CS_StructEnum.dll
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.pdb
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\CS_StructEnum.genruntimeconfig.cache
+D:\Users\admin\Documents\DocumentStudy\HocChuyenSau\C#\NhapMonCSharp\CS_StructEnum\obj\Debug\net5.0\ref\CS_StructEnum.dll
